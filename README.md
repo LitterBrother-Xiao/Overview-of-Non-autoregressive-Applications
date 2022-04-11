@@ -126,6 +126,18 @@ A survey on non-autoregressive neural machine translation including a brief revi
 - [21INTERSPEECH] Insertion-Based Modeling for End-to-End Automatic Speech Recognition. [Paper](https://arxiv.org/pdf/2005.13211.pdf) & [Code](https://github.com/espnet/espnet)
 - [21INTERSPEECH] Listen Attentively, and Spell Once: Whole Sentence Generation via a Non-Autoregressive Architecture for Low-Latency Speech Recognition. [Paper](https://arxiv.org/pdf/2005.04862v4.pdf)
 - [21arxiv] Spike-Triggered Non-Autoregressive Transformer for End-to-End Speech Recognition. [Paper](https://arxiv.org/pdf/2005.07903v1.pdf)
+- [21IAASP] INTERMEDIATE LOSS REGULARIZATION FOR CTC-BASED SPEECH RECOGNITION. [Paper](https://arxiv.org/pdf/2102.03216v1.pdf) & [Code](https://arxiv.org/pdf/2102.03216v1.pdf)
+- [21INTERSPEECH] Align-Denoise: Single-Pass Non-Autoregressive Speech Recognition. [Paper](http://dx.doi.org/10.21437/Interspeech.2021-1906) & [Code](https://github.com/bobchennan/espnet/tree/align_denoise)
+- [21ICCASP] Intermediate loss regularization for ctc-based speech recognition. [Paper](https://arxiv.org/pdf/2102.03216v1.pdf) & [Code](https://github.com/espnet/espnet) 
+- [21ArXiv] Relaxing the conditional independence assumption of CTC-based ASR by conditioning on intermediate predictions. [Paper](https://arxiv.org/pdf/2104.02724.pdf) & [Code](https://github.com/espnet/espnet)
+
+
+
+
+
+
+
+
 
 ### Text to speech (TTS)
 - [22ArXiv] vTTS: visual-text to speech. [Paper](https://arxiv.org/pdf/2203.14725.pdf)
@@ -133,7 +145,7 @@ A survey on non-autoregressive neural machine translation including a brief revi
 - [22ACL] Revisiting Over-Smoothness in Text to Speech. [Paper](https://arxiv.org/pdf/2202.13066.pdf)
 - [21ICLR] Bidirectional Variational Inference for Non-Autoregressive Text-to-Speech. [Paper](https://openreview.net/pdf?id=o3iritJHLfO) & [Code](https://github.com/LEEYOONHYUNG/BVAE-TTS
 - [21arxiv] VARA-TTS: Non-Autoregressive Text-to-Speech Synthesis based on Very Deep VAE with Residual Attention. [Paper](https://arxiv.org/pdf/2102.06431v1.pdf)
-- [21Speech Synthesis Workshop] Non-Autoregressive TTS with Explicit Duration Modelling for Low-Resource Highly Expressive Speech. [Ppaer](https://arxiv.org/pdf/2106.12896v2.pdf
+- [21Speech Synthesis Workshop] Non-Autoregressive TTS with Explicit Duration Modelling for Low-Resource Highly Expressive Speech. [Paper](https://arxiv.org/pdf/2106.12896v2.pdf
 - [21arxiv] VAENAR-TTS: Variational Auto-Encoder based Non-AutoRegressive Text-to-Speech Synthesis. [Paper](https://arxiv.org/pdf/2107.03298v1.pdf) & [Code](https://github.com/thuhcsi/VAENAR-TTS)
 - [21arxiv] Exploring Timbre Disentanglement in Non-Autoregressive Cross-Lingual Text-to-Speech. [Paper](https://arxiv.org/pdf/2110.07192v1.pdf) 
 - [21ICML] Non-Autoregressive Neural Text-to-Speech [Paper](https://arxiv.org/pdf/1905.08459.pdf) & [Code](https://github.com/ksw0306/WaveVAE)
@@ -184,8 +196,8 @@ A survey on non-autoregressive neural machine translation including a brief revi
 ### Others
 - [21ACL-IJCNLP Findings] A Non-Autoregressive Edit-Based Approach to Controllable Text Simplification. [Paper](https://aclanthology.org/2021.findings-acl.330.pdf)
 - [21ACL-IJCNLP Findings] NAST: A Non-Autoregressive Generator with Word Alignment for Unsupervised Text Style Transfer. [Paper](https://arxiv.org/pdf/2106.02210v1.pdf) & [Code](https://github.com/thu-coai/NAST)
-- [21ArXiv] EncT5: Fine-tuning T5 Encoder for Non-autoregressive Tasks. [Paper](https://arxiv.org/pdf/2110.08426v1.pdf)
 - [21EMNLP] Exploring Non-Autoregressive Text Style Transfer. [Paper](https://aclanthology.org/2021.emnlp-main.730.pdf) & [Code](https://github.com/sunlight-ym/nar_style_transfer)
+- [21ArXiv] EncT5: Fine-tuning T5 Encoder for Non-autoregressive Tasks. [Paper](https://arxiv.org/pdf/2110.08426v1.pdf)
 - [21EMNLP] Maximal Clique Based Non-Autoregressive Open Information Extraction. [Paper](https://aclanthology.org/2021.emnlp-main.764.pdf)
 - [21ArXiv] An Effective Non-Autoregressive Model for Spoken Language Understanding. [Paper](https://arxiv.org/pdf/2108.07005v1.pdf)
 - [20ArXiv] A Study on the Autoregressive and non-Autoregressive Multi-label Learning. [Paper](https://arxiv.org/pdf/2012.01711v1.pdf)
