@@ -93,7 +93,7 @@ A survey on non-autoregressive neural machine translation including a brief revi
 - [21NAACL-HLT] Multi-Task Learning with Shared Encoder for Non-Autoregressive Machine Translation. [Paper](https://aclanthology.org/2021.naacl-main.313.pdf) & [Code](https://github.com/yongchanghao/multi-task-nat)  
 -[20NeurIPS] Incorporating bert into parallel sequence decoding with adapters. [Paper](https://arxiv.org/pdf/2010.06138v1.pdf) & [Code](https://github.com/lemmonation/abnet)
 -[21EACL] Non-autoregressive text generation with pre-trained language models. [Paper](https://aclanthology.org/2021.eacl-main.18.pdf) & [Code](https://github.com/yxuansu/NAG-BERT)
--[22ArXiv] Universal conditional masked language pre-training for neural machine transl. [Paper](https://arxiv.org/pdf/2203.09210v1.pdf) & [Code](https://github.com/huawei-noah)
+-[22ACL] Universal conditional masked language pre-training for neural machine transl. [Paper](https://arxiv.org/pdf/2203.09210v1.pdf) & [Code](https://github.com/huawei-noah)
 
 ### Others
 - [22ICLR] NON-AUTOREGRESSIVE MODELS ARE BETTER MULTILINGUAL TRANSLATORS. [Paper](https://openreview.net/pdf?id=5HvpvYd68b)  
@@ -179,7 +179,7 @@ A survey on non-autoregressive neural machine translation including a brief revi
 - [21ICML] BANG: Bridging Autoregressive and Non-autoregressive Generation with Large Scale Pretraining. [Paper](https://arxiv.org/pdf/2012.15525v3.pdf) & [Code](https://github.com/microsoft/BANG)
 
 ### Summarization
-- [UnderReview] Learning Non-Autoregressive Models from Search for Unsupervised Sentence Summarization. [Paper](https://openreview.net/pdf?id=UNzc8gReN7m).
+- [22ACL] Learning Non-Autoregressive Models from Search for Unsupervised Sentence Summarization. [Paper](https://openreview.net/pdf?id=UNzc8gReN7m).
 
 ### Dialogue
 - [21EMNLP] Thinking Clearly, Talking Fast: Concept-Guided Non-Autoregressive Generation for Open-Domain Dialogue Systems. [Paper](https://arxiv.org/pdf/2109.04084v1.pdf) & [Code](https://github.com/rowitzou/cg-nar)
