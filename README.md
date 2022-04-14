@@ -14,7 +14,7 @@ A survey on non-autoregressive neural machine translation including a brief revi
 - [20ICLR] UNDERSTANDING KNOWLEDGE DISTILLATION IN NON-AUTOREGRESSIVE MACHINE TRANSLATION. [Paper](https://arxiv.org/pdf/1911.02727.pdf.) &
 [Code](https://github.com/pytorch/fairseq/tree/master/examples/nonautoregressive_translation.)  
 - [20ACL] A Study of Non-autoregressive Model for Sequence Generation. [Paper](https://aclanthology.org/2020.acl-main.15.pdf)  
-- [20ACL] Improving Non-autoregressive Neural Machine Translation with Monolingual Data. [Ppaer](https://aclanthology.org/2020.acl-main.171.pdf) 
+- [20ACL] Improving Non-autoregressive Neural Machine Translation with Monolingual Data. [paper](https://aclanthology.org/2020.acl-main.171.pdf) 
 - [21ICLR] UNDERSTANDING AND IMPROVING LEXICAL CHOICE IN NON-AUTOREGRESSIVE TRANSLATION. [Paper](https://arxiv.org/pdf/2012.14583v2.pdf)  
 - [21ACL-IJCNLP] Rejuvenating Low-Frequency Words: Making the Most of Parallel Data in Non-Autoregressive Translation. [Paper](https://arxiv.org/pdf/2106.00903.pdf) & [Code](https://github.com/longyuewangdcu/RLFW-NAT)  
 - [22Findings of ACL-IJCNLP] How Does Distilled Data Complexity Impact the Quality and Confidence of Non-Autoregressive Machine Translation? [Paper](https://aclanthology.org/2021.findings-acl.385.pdf)
@@ -89,7 +89,7 @@ A survey on non-autoregressive neural machine translation including a brief revi
 - [20ICML] An EM Approach to Non-autoregressive Conditional Sequence Generation. [Paper](https://arxiv.org/pdf/2006.16378.pdf) & [Code](https://github.com/Edward-Sun/NAT-EM)  
 - [20ACL] ENGINE: Energy-Based Inference Networks for Non-Autoregressive Machine Translation. [Paper](https://aclanthology.org/2020.acl-main.251.pdf) & [Code]( https://github.com/lifu-tu/ENGINE)
 - [20AutoSimtrans] Improving Autoregressive NMT with Non-Autoregressive Model. [Paper](https://aclanthology.org/2020.autosimtrans-1.4.pdf)  
-- [21IJCAI] Task-Level Curriculum Learning for Non-Autoregressive Neural Machine Translation. [Ppaer](https://www.ijcai.org/Proceedings/2020/0534.pdf)  
+- [21IJCAI] Task-Level Curriculum Learning for Non-Autoregressive Neural Machine Translation. [Paper](https://www.ijcai.org/Proceedings/2020/0534.pdf)  
 - [21NAACL-HLT] Multi-Task Learning with Shared Encoder for Non-Autoregressive Machine Translation. [Paper](https://aclanthology.org/2021.naacl-main.313.pdf) & [Code](https://github.com/yongchanghao/multi-task-nat)  
 -[20NeurIPS] Incorporating bert into parallel sequence decoding with adapters. [Paper](https://arxiv.org/pdf/2010.06138v1.pdf) & [Code](https://github.com/lemmonation/abnet)
 -[21EACL] Non-autoregressive text generation with pre-trained language models. [Paper](https://aclanthology.org/2021.eacl-main.18.pdf) & [Code](https://github.com/yxuansu/NAG-BERT)
@@ -112,20 +112,20 @@ A survey on non-autoregressive neural machine translation including a brief revi
 - [21NAACL] Align-Refine: Non-Autoregressive Speech Recognition via Iterative Realignment. [Paper](https://aclanthology.org/2021.naacl-main.154.pdf)
 - [21arvix] Fast End-to-End Speech Recognition via a Non-Autoregressive Model and Cross-Modal Knowledge Transferring from BERT. [Paper](https://arxiv.org/pdf/2102.07594)
 - [21ASRU][ Non-autoregressive Mandarin-English Code-switching Speech Recognition with Pinyin Mask-CTC and Word Embedding Regularization. [Paper](https://arxiv.org/pdf/2104.02258)
-- [21arxiv] Pushing the Limits of Non-Autoregressive Speech Recognition. [Paper](https://arxiv.org/pdf/2104.03416v4.pdf)
-- [21arxiv] WNARS: WFST based Non-autoregressive Streaming End-to-End Speech Recognition. [Paper](https://arxiv.org/pdf/2104.03587v2.pdf)
+- [21ArXiv] Pushing the Limits of Non-Autoregressive Speech Recognition. [Paper](https://arxiv.org/pdf/2104.03416v4.pdf)
+- [21ArXiv] WNARS: WFST based Non-autoregressive Streaming End-to-End Speech Recognition. [Paper](https://arxiv.org/pdf/2104.03587v2.pdf)
 - [21Interspeech] An Improved Single Step Non-autoregressive Transformer for Automatic Speech Recognition. [Paper](https://arxiv.org/pdf/2106.09885v2.pdf)
-- [21arxiv] Non-autoregressive Transformer with Unified Bidirectional Decoder for Automatic Speech Recognition. [Paper](https://arxiv.org/pdf/2109.06684v1.pdf)
+- [21ArXiv] Non-autoregressive Transformer with Unified Bidirectional Decoder for Automatic Speech Recognition. [Paper](https://arxiv.org/pdf/2109.06684v1.pdf)
 - [21ASRU] A Comparative Study on Non-Autoregressive Modelings for Speech-to-Text Generation. [Paper](https://arxiv.org/pdf/2110.05249v1.pdf)
-- [21arxiv] Boundary and Context Aware Training for CIF-based Non-Autoregressive End-to-end ASR. [Paper](https://arxiv.org/pdf/2104.04702)
-- [21arxiv] Non-autoregressive Transformer-based End-to-end ASR using BERT. [Paper](https://arxiv.org/pdf/2104.04805v1.pdf)
+- [21ArXiv] Boundary and Context Aware Training for CIF-based Non-Autoregressive End-to-end ASR. [Paper](https://arxiv.org/pdf/2104.04702)
+- [21ArXiv] Non-autoregressive Transformer-based End-to-end ASR using BERT. [Paper](https://arxiv.org/pdf/2104.04805v1.pdf)
 - [21Interspeech ] Multi-Speaker ASR Combining Non-Autoregressive Conformer CTC and Conditional Speaker Chain. [Paper](https://arxiv.org/pdf/2106.08595v1.pdf) & [Code](https://github.com/pengchengguo/espnet)
 - [21Interspeech] Streaming End-to-End ASR based on Blockwise Non-Autoregressive Models. [Paper](https://arxiv.org/pdf/2107.09428v1.pdf) & [Code](https://github.com/espnet/espnet)
-- [21arXiv] Listen and Fill in the Missing Letters: Non-Autoregressive Transformer for Speech Recognition. [Paper](https://arxiv.org/pdf/1911.04908.pdf)
+- [21ArXiv] Listen and Fill in the Missing Letters: Non-Autoregressive Transformer for Speech Recognition. [Paper](https://arxiv.org/pdf/1911.04908.pdf)
 - [21INTERSPEECH] Mask CTC: Non-Autoregressive End-to-End ASR with CTC and Mask Predict. [Paper](https://arxiv.org/pdf/2005.08700.pdf) & [Code](https://github.com/espnet/espnet)
 - [21INTERSPEECH] Insertion-Based Modeling for End-to-End Automatic Speech Recognition. [Paper](https://arxiv.org/pdf/2005.13211.pdf) & [Code](https://github.com/espnet/espnet)
 - [21INTERSPEECH] Listen Attentively, and Spell Once: Whole Sentence Generation via a Non-Autoregressive Architecture for Low-Latency Speech Recognition. [Paper](https://arxiv.org/pdf/2005.04862v4.pdf)
-- [21arxiv] Spike-Triggered Non-Autoregressive Transformer for End-to-End Speech Recognition. [Paper](https://arxiv.org/pdf/2005.07903v1.pdf)
+- [21ArXiv] Spike-Triggered Non-Autoregressive Transformer for End-to-End Speech Recognition. [Paper](https://arxiv.org/pdf/2005.07903v1.pdf)
 - [21IAASP] INTERMEDIATE LOSS REGULARIZATION FOR CTC-BASED SPEECH RECOGNITION. [Paper](https://arxiv.org/pdf/2102.03216v1.pdf) & [Code](https://arxiv.org/pdf/2102.03216v1.pdf)
 - [21INTERSPEECH] Align-Denoise: Single-Pass Non-Autoregressive Speech Recognition. [Paper](http://dx.doi.org/10.21437/Interspeech.2021-1906) & [Code](https://github.com/bobchennan/espnet/tree/align_denoise)
 - [21ICCASP] Intermediate loss regularization for ctc-based speech recognition. [Paper](https://arxiv.org/pdf/2102.03216v1.pdf) & [Code](https://github.com/espnet/espnet) 
@@ -140,34 +140,38 @@ A survey on non-autoregressive neural machine translation including a brief revi
 
 
 ### Text to speech (TTS)
+- [22INTERSPEECH] Hierarchical and Multi-Scale Variational Autoencoder for Diverse and Natural Non-Autoregressive Text-to-Speech. [Paper](https://arxiv.org/pdf/2204.04004.pdf)
 - [22ArXiv] vTTS: visual-text to speech. [Paper](https://arxiv.org/pdf/2203.14725.pdf)
 - [22Interspeech] A Multi-Scale Time-Frequency Spectrogram Discriminator for GAN-based Non-Autoregressive TTS. [Paper](https://arxiv.org/pdf/2203.01080.pdf)
 - [22ACL] Revisiting Over-Smoothness in Text to Speech. [Paper](https://arxiv.org/pdf/2202.13066.pdf)
 - [21ICLR] Bidirectional Variational Inference for Non-Autoregressive Text-to-Speech. [Paper](https://openreview.net/pdf?id=o3iritJHLfO) & [Code](https://github.com/LEEYOONHYUNG/BVAE-TTS
-- [21arxiv] VARA-TTS: Non-Autoregressive Text-to-Speech Synthesis based on Very Deep VAE with Residual Attention. [Paper](https://arxiv.org/pdf/2102.06431v1.pdf)
+- [21ArXiv] VARA-TTS: Non-Autoregressive Text-to-Speech Synthesis based on Very Deep VAE with Residual Attention. [Paper](https://arxiv.org/pdf/2102.06431v1.pdf)
+- [21ArXiv] Nana-HDR: A Non-attentive Non-autoregressive Hybrid Model for TTS. [Paper](https://arxiv.org/pdf/2109.13673.pdf)
 - [21Speech Synthesis Workshop] Non-Autoregressive TTS with Explicit Duration Modelling for Low-Resource Highly Expressive Speech. [Paper](https://arxiv.org/pdf/2106.12896v2.pdf
-- [21arxiv] VAENAR-TTS: Variational Auto-Encoder based Non-AutoRegressive Text-to-Speech Synthesis. [Paper](https://arxiv.org/pdf/2107.03298v1.pdf) & [Code](https://github.com/thuhcsi/VAENAR-TTS)
-- [21arxiv] Exploring Timbre Disentanglement in Non-Autoregressive Cross-Lingual Text-to-Speech. [Paper](https://arxiv.org/pdf/2110.07192v1.pdf) 
+- [21ArXiv] VAENAR-TTS: Variational Auto-Encoder based Non-AutoRegressive Text-to-Speech Synthesis. [Paper](https://arxiv.org/pdf/2107.03298v1.pdf) & [Code](https://github.com/thuhcsi/VAENAR-TTS)
+- [21ArXiv] Exploring Timbre Disentanglement in Non-Autoregressive Cross-Lingual Text-to-Speech. [Paper](https://arxiv.org/pdf/2110.07192v1.pdf) 
 - [21ICML] Non-Autoregressive Neural Text-to-Speech [Paper](https://arxiv.org/pdf/1905.08459.pdf) & [Code](https://github.com/ksw0306/WaveVAE)
 - [21Interspeech] Quasi-Periodic Parallel WaveGAN Vocoder: A Non-autoregressive Pitch-dependent Dilated Convolution Model for Parametric Speech Generation. [Paper](https://arxiv.org/pdf/2005.08654v1.pdf) & [Code](https://github.com/bigpon/QPPWG)
 - [21NeurIPS] FastSpeech: Fast, Robust and Controllable Text to Speech. [Paper](https://arxiv.org/pdf/1905.09263.pdf) & [Code](https://github.com/coqui-ai/TTS)
-
+- [21ArXiv] TalkNet 2: Non-Autoregressive Depth-Wise Separable Convolutional Model for Speech Synthesis with Explicit Pitch and Duration Prediction. [Paper](https://arxiv.org/pdf/2104.08189v3.pdf) & [Code](https://github.com/rishikksh20/TalkNet2-pytorch))
+- [21ArXiv] Hierarchical Prosody Modeling for Non-Autoregressive Speech Synthesis. [Paper](https://arxiv.org/pdf/2011.06465v3.pdf) & [Code](https://github.com/ming024/FastSpeech2)
 ### Speech translation 
 - [21ACL findings] Investigating the Reordering Capability in CTC-based Non-Autoregressive End-to-End Speech Translation. [Paper](https://arxiv.org/pdf/2105.04840v1.pdf) & [Code](https://github.com/voidism/NAR-ST)
 - [21ICASSP] ORTHROS: non-autoregressive end-to-end speech translation With dual-decoder. [Paper](https://arxiv.org/pdf/2010.13047))
-- [21arxiv] Non-autoregressive End-to-end Speech Translation with Parallel Autoregressive Rescoring. [Paper](https://arxiv.org/pdf/2109.04411v1.pdf)
+- [21ArXiv] Non-autoregressive End-to-end Speech Translation with Parallel Autoregressive Rescoring. [Paper](https://arxiv.org/pdf/2109.04411v1.pdf)
 - [21ASRU] Fast-MD: Fast Multi-Decoder End-to-End Speech Translation with Non-Autoregressive Hidden Intermediates. [Paper](https://arxiv.org/pdf/2109.12804v1.pdf)
 
 ### Others
-- [22ICLR]Generating Videos with Dynamics-aware Implicit Generative Adversarial Networks. [Paper](https://arxiv.org/pdf/2202.10571.pdf)
+- [22ArXiv] Conditional Deep Hierarchical Variational Autoencoder for Voice Conversion. [Paper](https://arxiv.org/pdf/2112.02796.pdf)
+- [22ICLR] Generating Videos with Dynamics-aware Implicit Generative Adversarial Networks. [Paper](https://arxiv.org/pdf/2202.10571.pdf)
 - [21ICASSP] Non-Autoregressive Sequence-To-Sequence Voice Conversion. [Paper](https://arxiv.org/pdf/2104.06793)
-- [21arxiv] TalkNet 2: Non-Autoregressive Depth-Wise Separable Convolutional Model for Speech Synthesis with Explicit Pitch and Duration Prediction. [Paper](https://arxiv.org/pdf/2104.08189v3.pdf) & [Code](https://github.com/rishikksh20/TalkNet2-pytorch))
-- [21arxiv] Non-Autoregressive Predictive Coding for Learning Speech Representations from Local Dependencies. [Paper](https://arxiv.org/pdf/2011.00406v1.pdf) & [Code](https://github.com/Alexander-H-Liu/NPC)
-- [21arxiv] Hierarchical Prosody Modeling for Non-Autoregressive Speech Synthesis. [Paper](https://arxiv.org/pdf/2011.06465v3.pdf) & [Code](https://github.com/ming024/FastSpeech2)
+- [21ArXiv] Non-Autoregressive Predictive Coding for Learning Speech Representations from Local Dependencies. [Paper](https://arxiv.org/pdf/2011.00406v1.pdf) & [Code](https://github.com/Alexander-H-Liu/NPC)
+- [21ArXiv] Exploring Non-Autoregressive End-To-End Neural Modeling For English Mispronunciation Detection And Diagnosis. [Paper](https://arxiv.org/ftp/arxiv/papers/2111/2111.00844.pdf)
 
 ## Other tasks (Text Summarization; Dialogue and Intent Detection; Grammatical Error Correction; Text Style Transfer; Parsing; etc.)
 ### Papers
 ### General-Purpose methods
+- [22ArXiv] An Imitation Learning Curriculum for Text Editing with Non-Autoregressive Models. [Paper]
 - [21ACL-IJCNLP] POS-Constrained Parallel Decoding for Non-autoregressive Generation. [Paper](https://aclanthology.org/2021.acl-long.467.pdf) & [Code](https://github.com/yangkexin/pospd)
 - [21ArXiv] Integrated Training for Sequence-to-Sequence Models Using Non-Autoregressive Transformer. [Paper](https://arxiv.org/pdf/2109.12950v1.pdf)
 - [21ArXiv] Improving Non-autoregressive Generation with Mixup Training. [Paper](https://arxiv.org/pdf/2110.11115v1.pdf) & [Code](https://github.com/kongds/mist)
@@ -181,6 +185,7 @@ A survey on non-autoregressive neural machine translation including a brief revi
 - [21EMNLP] Thinking Clearly, Talking Fast: Concept-Guided Non-Autoregressive Generation for Open-Domain Dialogue Systems. [Paper](https://arxiv.org/pdf/2109.04084v1.pdf) & [Code](https://github.com/rowitzou/cg-nar)
 - [20ArXiv] Non-Autoregressive Neural Dialogue Generation. [Paper](https://arxiv.org/pdf/2002.04250v2.pdf)
 - [21ACL-IJCNLP] GL-GIN: Fast and Accurate Non-Autoregressive Model for Joint Multiple Intent Detection and Slot Filling. [Paper](https://arxiv.org/pdf/2106.01925v1.pdf) & [Code](https://github.com/yizhen20133868/GL-GIN)
+- [21ArXiv] An Effective Non-Autoregressive Model for Spoken Language Understanding. [Paper](https://arxiv.org/pdf/2108.07005v1.pdf)
 - [20EMNLP] SlotRefine: A Fast Non-Autoregressive Model for Joint Intent Detection and Slot Filling. [Paper](https://arxiv.org/pdf/2010.02693v2.pdf) & [Code](https://github.com/moore3930/SlotRefine)
 - [20ICLR] Non-Autoregressive Dialog State Tracking. [Paper](https://arxiv.org/pdf/2002.08024v1.pdf) & [Code](https://github.com/henryhungle/NADST)
 
@@ -199,6 +204,5 @@ A survey on non-autoregressive neural machine translation including a brief revi
 - [21EMNLP] Exploring Non-Autoregressive Text Style Transfer. [Paper](https://aclanthology.org/2021.emnlp-main.730.pdf) & [Code](https://github.com/sunlight-ym/nar_style_transfer)
 - [21ArXiv] EncT5: Fine-tuning T5 Encoder for Non-autoregressive Tasks. [Paper](https://arxiv.org/pdf/2110.08426v1.pdf)
 - [21EMNLP] Maximal Clique Based Non-Autoregressive Open Information Extraction. [Paper](https://aclanthology.org/2021.emnlp-main.764.pdf)
-- [21ArXiv] An Effective Non-Autoregressive Model for Spoken Language Understanding. [Paper](https://arxiv.org/pdf/2108.07005v1.pdf)
 - [20ArXiv] A Study on the Autoregressive and non-Autoregressive Multi-label Learning. [Paper](https://arxiv.org/pdf/2012.01711v1.pdf)
 
