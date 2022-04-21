@@ -10,7 +10,7 @@ A survey on non-autoregressive neural machine translation including a brief revi
 ## Neural machine translation
 ### Papers
 ### Data manipulation
-##### &nbsp;&nbsp;&nbsp;&nbsp; Knowledge distillation
+### &nbsp;&nbsp;&nbsp;&nbsp; Knowledge distillation
 - [20ICLR] UNDERSTANDING KNOWLEDGE DISTILLATION IN NON-AUTOREGRESSIVE MACHINE TRANSLATION. [Paper](https://arxiv.org/pdf/1911.02727.pdf.) &
 [Code](https://github.com/pytorch/fairseq/tree/master/examples/nonautoregressive_translation.)  
 - [20ACL] A Study of Non-autoregressive Model for Sequence Generation. [Paper](https://aclanthology.org/2020.acl-main.15.pdf)  
@@ -30,7 +30,7 @@ A survey on non-autoregressive neural machine translation including a brief revi
 - [UnderReview] Contrastive Conditional Masked Language Model for Non-autoregressive Neural Machine Translation. [Paper](https://openreview.net/pdf?id=9_j8yJ6ISSr)
 
 ### Modeling 
-##### &nbsp;&nbsp;&nbsp;&nbsp;Iteration-based methods
+### &nbsp;&nbsp;&nbsp;&nbsp;Iteration-based methods
 - [18EMNLP] Deterministic Non-Autoregressive Neural Sequence Modeling by Iterative Refinement. [Paper](https://aclanthology.org/D18-1149.pdf) & [Code](https://github.com/nyu-dl/dl4mt-nonauto)   
 - [19ICML] Insertion Transformer: Flexible Sequence Generation via Insertion Operations. [Paper](https://arxiv.org/pdf/1902.03249.pdf) & [Code](https://github.com/pytorch/fairseq/tree/master/examples/nonautoregressive_translation)   
 - [19NeurIPS] Levenshtein Transformer. [Paper](https://arxiv.org/pdf/1905.11006v1.pdf) & [Code](https://github.com/pytorch/fairseq/tree/master/examples/nonautoregressive_translation)  
@@ -44,7 +44,7 @@ A survey on non-autoregressive neural machine translation including a brief revi
 - [21EMNLP] Learning to Rewrite for Non-Autoregressive Neural Machine Translation. [Paper](https://aclanthology.org/2021.emnlp-main.265.pdf) & [Code](https://github.com/xwgeng/RewriteNAT)  
 - [22ICLR] IMPROVING NON-AUTOREGRESSIVE TRANSLATION MODELS WITHOUT DISTILLATION. [Paper](https://openreview.net/pdf?id=I2Hw58KHp8O) 
 
-##### &nbsp;&nbsp;&nbsp;&nbsp;Latent variable-based methods
+### &nbsp;&nbsp;&nbsp;&nbsp;Latent variable-based methods
 - [18ICLR] NON-AUTOREGRESSIVE NEURAL MACHINE TRANSLATION. [Paper](https://arxiv.org/pdf/1711.02281.pdf) & [Code](https://github.com/salesforce/nonauto-nmt)
 - [19EMNLP-IJCNLP] FlowSeq: Non-Autoregressive Conditional Sequence Generation with Generative Flow. [Paper](https://arxiv.org/pdf/1909.02480v1.pdf) & [Code](https://github.com/XuezheMax/flowseq)
 - [19NeurIPS] Fast Structured Decoding for Sequence Models. [Paper](https://arxiv.org/pdf/1910.11555.pdf) 
@@ -59,7 +59,7 @@ A survey on non-autoregressive neural machine translation including a brief revi
 - [21NAACL-HLT] Non-Autoregressive Translation by Learning Target Categorical Codes. [Paper](https://aclanthology.org/2021.naacl-main.458.pdf) & [Code](https://github.com/baoy-nlp/CNAT)  
 - [21ACL-IJCNLP Findinds] Fully Non-autoregressive Neural Machine Translation:Tricks of the Trade. [Paper](https://aclanthology.org/2021.findings-acl.11.pdf) & [Code](https://github.com/pytorch/fairseq/tree/main/examples/nonautoregressive_translation)  
 
-##### &nbsp;&nbsp;&nbsp;&nbsp;Other enhancements-based mothods
+### &nbsp;&nbsp;&nbsp;&nbsp;Other enhancements-based mothods
 - [19AAAI] Non-Autoregressive Neural Machine Translation with Enhanced Decoder Input. [Paper](https://arxiv.org/pdf/1812.09664.pdf)  
 - [19AAAI] Non-Autoregressive Machine Translation with Auxiliary Regularization. [Paper](https://arxiv.org/pdf/1902.10245.pdf)   
 - [20COLING] Context-Aware Cross-Attention for Non-Autoregressive Translation. [Paper](https://aclanthology.org/2020.coling-main.389.pdf)  
