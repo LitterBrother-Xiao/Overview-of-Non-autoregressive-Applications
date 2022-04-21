@@ -9,7 +9,7 @@ A survey on non-autoregressive neural machine translation including a brief revi
 
 ## Neural machine translation
 ### Tutorial
-ACL 2022 
+ACL 2022 [Non-Autoregressive Sequence Generation](https://github.com/NAR-tutorial/acl2022)
 ### Papers
 ### Data manipulation
 ### &nbsp;&nbsp;&nbsp;&nbsp; Knowledge distillation
@@ -117,20 +117,20 @@ We show the performance on several datesets without rescoring reported from orig
 [Glat](https://aclanthology.org/2021.acl-long.155.pdf)| 1 | 15.3x | 25.21 | 29.84 |31.19 |32.04 |- |29.61^| 
 [PMG](https://aclanthology.org/2021.findings-acl.247.pdf)| 2.5 | 3.5x  | 27.8* | - | -  | 33.8* | - | - | 
 [latent-Glat](https://arxiv.org/pdf/2204.02030.pdf)| 1  | 11.3x | 26.64 | 29.93 | - | -| -| 32.47    |  
-[Insertion Transformer](https://arxiv.org/pdf/1902.03249.pdf)| $\approx log_2(N)$ | - | 27.41 | - | - |- | - |-| 
+[Insertion Transformer](https://arxiv.org/pdf/1902.03249.pdf)| log_2(N) | - | 27.41 | - | - |- | - |-| 
 [Levenshtein](https://arxiv.org/pdf/1905.11006v1.pdf)| Adaptive | 4.0x | 27.27 | - | - | 33.26 |-|-|   
 [CMLM](https://aclanthology.org/D19-1633.pdf)| 10 | 1.7x | 27.03* | 30.53* | 33.08 | 33.31 | - | - | 
 [SMART](https://arxiv.org/pdf/2001.08785.pdf)| 10 | 1.7x | 27.65* | 31.27* | - | - | - | - | 
 [Disco](https://arxiv.org/pdf/2001.05136.pdf)| Adaptive | 3.5x | 27.34* | 31.31* | 33.22 | 33.25 | - | -|  
 [JM-NAT](https://aclanthology.org/2020.acl-main.36.pdf) | 10 | 5.7x | 27.69* | 32.24 * | 33.52 | 33.72 |- |32.59 |     
-[Transformer(12-1)](https://arxiv.org/pdf/2006.10369.pdf)| $N$ | 2.5x | 28.3* | 31.8* | 33.8 | 34.8 | - | -| 
+[Transformer(12-1)](https://arxiv.org/pdf/2006.10369.pdf)| N | 2.5x | 28.3* | 31.8* | 33.8 | 34.8 | - | -| 
 [MvSR-NAT](https://arxiv.org/pdf/2108.08447.pdf)| 10 | 3.8x | 27.39* |31.18* |33.38 |33.56  | - |32.55 | 
 [Rewrite-NAT](https://aclanthology.org/2021.emnlp-main.265.pdf) | 2.3 | 3.9x | 27.83* | 31.52* | 33.63 |34.09 |- | -|  
 [CMLMC](https://openreview.net/pdf?id=I2Hw58KHp8O)| 10 | - | 28.37* | 31.41* | 34.57 |34.13 | 28.51 | 34.78| 
 [FlowSeq](https://arxiv.org/pdf/1909.02480v1.pdf)| 1  | 1.1x | 23.72 | 28.39 | 29.73 | 30.72 |27.55 |-|    
 [NART-DCRF](https://arxiv.org/pdf/1910.11555.pdf)| 1 | 10.4x | 23.44 | 27.22 | - | - | - | 27.44|   
 [PNAT](https://arxiv.org/pdf/1911.10677.pdf)| 1 | 7.3x | 23.05 | 27.18 | - | - | - | 31.23# |   
-[SynST](https://aclanthology.org/P19-1122.pdf) | $N/6$ | 4.6x | 20.74 | 25.50 | -| - | 23.82 | -|  
+[SynST](https://aclanthology.org/P19-1122.pdf) | N/6 | 4.6x | 20.74 | 25.50 | -| - | 23.82 | -|  
 [LaNAT](https://arxiv.org/pdf/1908.07181v1.pdf)| 1 | 6.8x | 25.10 | - | - | - | - | - |  
 [Imputer](https://aclanthology.org/2020.emnlp-main.83.pdf) | 8 | 3.9x | 28.2*  | 31.8* | 34.4 | 34.1 | - | -|    
 [LAT](https://arxiv.org/pdf/2011.06132.pdf)| 4 | 6.7x | 27.35 | 32.04 |32.87 | 33.26 |- | 34.08|     
@@ -150,8 +150,8 @@ We show the performance on several datesets without rescoring reported from orig
 [BoN-Joint](https://arxiv.org/pdf/1911.09320.pdf)| 1 | 9.6x | 20.90 | 24.61 | 28.31 | 29.29 | 25.72# | -|   
 [AXE-NAT](https://arxiv.org/pdf/2004.01655.pdf)| 1 | 15.3x | 23.53* | 27.90* | 30.75 | 31.54 | - | -| 
 [OAXE-NAT](https://arxiv.org/pdf/2106.05093.pdf) | 1 | 15.3x | 26.10* | 30.20* | 32.40 | 33.30 | - | - |  
-[Semi-NAT](https://aclanthology.org/D18-1044.pdf)| $N/2$ | 1.5x  | 26.90 | - | - | - | - | -  |  
-[RecoverSAT](https://aclanthology.org/2020.acl-main.277.pdf)| $N/2$ | 2.1x | 27.11  | 31.67 | 32.92 | 33.19 | 30.78# | - | 
+[Semi-NAT](https://aclanthology.org/D18-1044.pdf)| N/2 | 1.5x  | 26.90 | - | - | - | - | -  |  
+[RecoverSAT](https://aclanthology.org/2020.acl-main.277.pdf)| N/2 | 2.1x | 27.11  | 31.67 | 32.92 | 33.19 | 30.78# | - | 
 [Unify](https://aclanthology.org/2020.coling-main.25.pdf)| 10 | - |26.24 | - | - | - | - | 30.73 |  
 [GAD](https://arxiv.org/pdf/2203.16487v1.pdf) | 1.6 | 14.3× | 26.48 | - | - | - | - | - |  
 [Diformer](https://arxiv.org/pdf/2112.11632v2.pdf) | 10 | - | 27.99 | 31.68 | 34.37 | 33.34 | - | - |  
