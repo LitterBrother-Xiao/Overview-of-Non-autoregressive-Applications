@@ -21,7 +21,7 @@ ACL 2022 [Non-Autoregressive Sequence Generation](https://github.com/NAR-tutoria
 - [21ACL-IJCNLP] Rejuvenating Low-Frequency Words: Making the Most of Parallel Data in Non-Autoregressive Translation. [Paper](https://arxiv.org/pdf/2106.00903.pdf) & [Code](https://github.com/longyuewangdcu/RLFW-NAT)  
 - [22Findings of ACL-IJCNLP] How Does Distilled Data Complexity Impact the Quality and Confidence of Non-Autoregressive Machine Translation? [Paper](https://aclanthology.org/2021.findings-acl.385.pdf)
 - [UnderReview] Self-Distillation Mixup Training for Non-autoregressive Neural Machine Translation. [Paper](https://arxiv.org/pdf/2112.11640v1.pdf)  
-- [UnderReview] Neighbors Are Not Strangers: Improving Non-Autoregressive Translation under Low-Frequency Lexical Constraints. [Paper](https://openreview.net/pdf?id=T-Wh9Ds-qk)
+- [22NAACL] Neighbors Are Not Strangers: Improving Non-Autoregressive Translation under Low-Frequency Lexical Constraints. [Paper](https://openreview.net/pdf?id=T-Wh9Ds-qk)
 
 ### &nbsp;&nbsp;&nbsp;&nbsp; Data learning strategy 
 - [21ACL-IJCNLP] Glancing Transformer for Non-Autoregressive Neural Machine Translation. [Paper](https://aclanthology.org/2021.acl-long.155.pdf) & [Code](https://github.com/FLC777/GLAT)  
@@ -100,7 +100,7 @@ ACL 2022 [Non-Autoregressive Sequence Generation](https://github.com/NAR-tutoria
 ### Others
 - [22ICLR] NON-AUTOREGRESSIVE MODELS ARE BETTER MULTILINGUAL TRANSLATORS. [Paper](https://openreview.net/pdf?id=5HvpvYd68b)  
 - [21NeurIPS] Duplex Sequence-to-Sequence Learning for Reversible Machine Translation. [Paper](https://arxiv.org/pdf/2105.03458.pdf) & [Code](https://github.com/zhengzx-nlp/REDER)  
-- [UnderReview] Non-Autoregressive Machine Translation: It’s Not as Fast as it Seems. [Paper](https://openreview.net/pdf?id=1jg0-AcYVo)
+- [22NAACL] Non-Autoregressive Machine Translation: It’s Not as Fast as it Seems. [Paper](https://openreview.net/pdf?id=1jg0-AcYVo)
 
 ### Results
 We show the performance on several datesets without rescoring reported from original paper. * indicates training with knowledge distillation from a big Transformer; ^ denotes training without sequence-level knowledge distillation; # refers to results on IWSLT'16 dataset. 
@@ -221,11 +221,13 @@ We show the performance on several datesets without rescoring reported from orig
 - [21NeurIPS] FastSpeech: Fast, Robust and Controllable Text to Speech. [Paper](https://arxiv.org/pdf/1905.09263.pdf) & [Code](https://github.com/coqui-ai/TTS)
 - [21ArXiv] TalkNet 2: Non-Autoregressive Depth-Wise Separable Convolutional Model for Speech Synthesis with Explicit Pitch and Duration Prediction. [Paper](https://arxiv.org/pdf/2104.08189v3.pdf) & [Code](https://github.com/rishikksh20/TalkNet2-pytorch))
 - [21ArXiv] Hierarchical Prosody Modeling for Non-Autoregressive Speech Synthesis. [Paper](https://arxiv.org/pdf/2011.06465v3.pdf) & [Code](https://github.com/ming024/FastSpeech2)
+- [22ACL] Cross-Utterance Conditioned VAE for Non-Autoregressive Text-to-Speech. [Paper](https://arxiv.org/pdf/2205.04120.pdf)
 ### Speech translation 
 - [21ACL findings] Investigating the Reordering Capability in CTC-based Non-Autoregressive End-to-End Speech Translation. [Paper](https://arxiv.org/pdf/2105.04840v1.pdf) & [Code](https://github.com/voidism/NAR-ST)
 - [21ICASSP] ORTHROS: non-autoregressive end-to-end speech translation With dual-decoder. [Paper](https://arxiv.org/pdf/2010.13047))
 - [21ArXiv] Non-autoregressive End-to-end Speech Translation with Parallel Autoregressive Rescoring. [Paper](https://arxiv.org/pdf/2109.04411v1.pdf)
 - [21ASRU] Fast-MD: Fast Multi-Decoder End-to-End Speech Translation with Non-Autoregressive Hidden Intermediates. [Paper](https://arxiv.org/pdf/2109.12804v1.pdf)
+
 
 ### Others
 - [22ArXiv] Conditional Deep Hierarchical Variational Autoencoder for Voice Conversion. [Paper](https://arxiv.org/pdf/2112.02796.pdf)
@@ -271,4 +273,5 @@ We show the performance on several datesets without rescoring reported from orig
 - [21ArXiv] EncT5: Fine-tuning T5 Encoder for Non-autoregressive Tasks. [Paper](https://arxiv.org/pdf/2110.08426v1.pdf)
 - [21EMNLP] Maximal Clique Based Non-Autoregressive Open Information Extraction. [Paper](https://aclanthology.org/2021.emnlp-main.764.pdf)
 - [20ArXiv] A Study on the Autoregressive and non-Autoregressive Multi-label Learning. [Paper](https://arxiv.org/pdf/2012.01711v1.pdf)
-
+- [22ArXiv]KECP: Knowledge Enhanced Contrastive Prompting for Few-shot Extractive Question Answering. [Paper](https://arxiv.org/pdf/2205.03071.pdf) & [Code](https://github.com/alibaba/EasyNLP)
+- 
