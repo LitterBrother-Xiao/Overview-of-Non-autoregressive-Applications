@@ -247,7 +247,7 @@ We show the performance on several datesets without rescoring reported from orig
 ## Other tasks (Text Summarization; Dialogue and Intent Detection; Grammatical Error Correction; Text Style Transfer; Parsing; etc.)
 ### Papers
 ### General-Purpose methods
-- [22ArXiv] An Imitation Learning Curriculum for Text Editing with Non-Autoregressive Models. [Paper]
+- [22ArXiv] An Imitation Learning Curriculum for Text Editing with Non-Autoregressive Models. [Paper](https://arxiv.org/pdf/2203.09486.pdf)
 - [21ACL-IJCNLP] POS-Constrained Parallel Decoding for Non-autoregressive Generation. [Paper](https://aclanthology.org/2021.acl-long.467.pdf) & [Code](https://github.com/yangkexin/pospd)
 - [21ArXiv] Integrated Training for Sequence-to-Sequence Models Using Non-Autoregressive Transformer. [Paper](https://arxiv.org/pdf/2109.12950v1.pdf)
 - [21ArXiv] Improving Non-autoregressive Generation with Mixup Training. [Paper](https://arxiv.org/pdf/2110.11115v1.pdf) & [Code](https://github.com/kongds/mist)
