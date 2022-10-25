@@ -30,7 +30,7 @@ ACL 2022 [Non-Autoregressive Sequence Generation](https://github.com/NAR-tutoria
 - [21ArXiv] MvSR-NAT: Multi-view Subset Regularization for Non-Autoregressive Machine Translation. [Paper](https://arxiv.org/pdf/2108.08447.pdf)  
 - [22ACL] latent-GLAT: Glancing at Latent Variables for Parallel Text Generation. [Paper](https://arxiv.org/pdf/2204.02030.pdf) & [Code](https://github.com/baoy-nlp/Latent-GLAT)
 - [22NAACL] Non-Autoregressive Neural Machine Translation with Consistency Regularization Optimized Variational Framework. [Paper](https://openreview.net/pdf?id=cLe29FcNAKb)
-- [22ARXIV] Contrastive Conditional Masked Language Model for Non-autoregressive Neural Machine Translation. [Paper](https://openreview.net/pdf?id=9_j8yJ6ISSr)
+- [22ArXiv] Contrastive Conditional Masked Language Model for Non-autoregressive Neural Machine Translation. [Paper](https://openreview.net/pdf?id=9_j8yJ6ISSr)
 
 ### Modeling 
 ### &nbsp;&nbsp;&nbsp;&nbsp;Iteration-based methods
@@ -82,7 +82,8 @@ ACL 2022 [Non-Autoregressive Sequence Generation](https://github.com/NAR-tutoria
 - [22NAACL] One Reference Is Not Enough: Diverse Distillation with Reference Selection for Non-Autoregressive Translation. [Paper](https://arxiv.org/pdf/2205.14333.pdf) & [Code](https://github.com/ictnlp/DDRS-NAT)
 - [22EMNLP] Multi-Granularity Optimization for Non-Autoregressive Translation. [Paper](https://arxiv.org/pdf/2210.11017.pdf)
 - [22COLNG] ngram-OAXE: Phrase-Based Order-Agnostic Cross Entropy for Non-Autoregressive Machine Translation. [Paper](https://arxiv.org/pdf/2210.03999.pdf) & [Code]( https://github.com/tencent-ailab/machine-translation/COLING22_ngram-OAXE/)
-- [22NeurIPS] Non-Monotonic Latent Alignments for CTC-Based Non-Autoregressive Machine Translation. [Paper](https://arxiv.org/pdf/2210.03953.pdf) & [Code] (https://github.com/ictnlp/NMLA-NAT.)
+- [22NeurIPS] Non-Monotonic Latent Alignments for CTC-Based Non-Autoregressive Machine Translation. [Paper](https://arxiv.org/pdf/2210.03953.pdf) & 
+[Code](https://github.com/ictnlp/NMLA-NAT.)
 
 ### Decoding
 - [18EMNLP] Semi-Autoregressive Neural Machine Translation. [Paper](https://aclanthology.org/D18-1044.pdf)   
