@@ -105,6 +105,7 @@ ACL 2022 [Non-Autoregressive Sequence Generation](https://github.com/NAR-tutoria
 - [20NeurIPS] Incorporating bert into parallel sequence decoding with adapters. [Paper](https://arxiv.org/pdf/2010.06138v1.pdf) & [Code](https://github.com/lemmonation/abnet)
 - [21EACL] Non-autoregressive text generation with pre-trained language models. [Paper](https://aclanthology.org/2021.eacl-main.18.pdf) & [Code](https://github.com/yxuansu/NAG-BERT)  
 - [22ACL] Universal conditional masked language pre-training for neural machine transl. [Paper](https://arxiv.org/pdf/2203.09210v1.pdf) & [Code](https://github.com/huawei-noah)
+- [22EMNLP] Helping the Weak Makes You Strong: Simple Multi-Task Learning Improves Non-Autoregressive Translators. [Paper](https://arxiv.org/pdf/2211.06075.pdf) & [Code](https://arxiv.org/pdf/2211.06075.pdf)
 
 ### Others
 - [22ICLR] NON-AUTOREGRESSIVE MODELS ARE BETTER MULTILINGUAL TRANSLATORS. [Paper](https://openreview.net/pdf?id=5HvpvYd68b)  
