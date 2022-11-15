@@ -109,7 +109,7 @@ ACL 2022 [Non-Autoregressive Sequence Generation](https://github.com/NAR-tutoria
 - [21EACL] Non-autoregressive text generation with pre-trained language models. [Paper](https://aclanthology.org/2021.eacl-main.18.pdf) & [Code](https://github.com/yxuansu/NAG-BERT)  
 - [22ACL] Universal conditional masked language pre-training for neural machine translation. [Paper](https://arxiv.org/pdf/2203.09210v1.pdf) & [Code](https://github.com/huawei-noah)
 - [22EMNLP] Helping the Weak Makes You Strong: Simple Multi-Task Learning Improves Non-Autoregressive Translators. [Paper](https://arxiv.org/pdf/2211.06075.pdf) & [Code](https://arxiv.org/pdf/2211.06075.pdf)
-- [22EMNLP] ELMER: A Non-Autoregressive Pre-trained Language Model for Efficient and Effective Text Generation. [Paper](https://arxiv.org/pdf/2210.13304.pdf) &   [Code](https://github.com/RUCAIBox/ELMER)
+
 
 ### Others
 - [22ICLR] NON-AUTOREGRESSIVE MODELS ARE BETTER MULTILINGUAL TRANSLATORS. [Paper](https://openreview.net/pdf?id=5HvpvYd68b)  
@@ -271,7 +271,7 @@ We show the performance on several datesets without rescoring reported from orig
 - [21ICML] BANG: Bridging Autoregressive and Non-autoregressive Generation with Large Scale Pretraining. [Paper](https://arxiv.org/pdf/2012.15525v3.pdf) & [Code](https://github.com/microsoft/BANG)
 - [22ArXiv] EdiT5: Semi-Autoregressive Text-Editing with T5 Warm-Start. [Paper](https://arxiv.org/pdf/2205.12209.pdf)
 - [22ArXiv] A Self-Paced Mixed Distillation Method for Non-Autoregressive Generation. [Paper](https://arxiv.org/pdf/2205.11162.pdf)
-- [22EMNLP] ELMER: A Non-Autoregressive Pre-trained Language Model for Efficien and Effective Text Generation/ [Paper](https://arxiv.org/pdf/2210.13304.pdf)
+- [22EMNLP] ELMER: A Non-Autoregressive Pre-trained Language Model for Efficient and Effective Text Generation. [Paper](https://arxiv.org/pdf/2210.13304.pdf) &   [Code](https://github.com/RUCAIBox/ELMER)
 ### Summarization
 - [22ACL] Learning Non-Autoregressive Models from Search for Unsupervised Sentence Summarization. [Paper](https://openreview.net/pdf?id=UNzc8gReN7m).
 - [22Arxiv] A Character-Level Length-Control Algorithm for Non-Autoregressive Sentence Summarization. [Paper](https://arxiv.org/pdf/2205.14522.pdf).
