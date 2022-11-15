@@ -119,7 +119,7 @@ ACL 2022 [Non-Autoregressive Sequence Generation](https://github.com/NAR-tutoria
 - [22ICML] Directed Acyclic Transformer for Non-Autoregressive Machine Translation. [Paper](https://arxiv.org/pdf/2205.07459.pdf)
 - [UnderReview] FUZZY ALIGNMENTS IN DIRECTED ACYCLIC GRAPH FOR NON-AUTOREGRESSIVE MACHINE TRANSLATION. [Paper](https://openreview.net/pdf?id=LSz-gQyd0zE) 
 - [22EMNLP findings] Viterbi Decoding of Directed Acyclic Transformer for Non-Autoregressive Machine Translation. [Paper](https://arxiv.org/pdf/2210.05193.pdf) 
-- [UnderReview] ATTENTIVE MLP FOR NON-AUTOREGRESSIVE GENERATION.[Ppaer](https://openreview.net/pdf?id=hA7XDfCD1y2)
+- [UnderReview] ATTENTIVE MLP FOR NON-AUTOREGRESSIVE GENERATION. [Paper](https://openreview.net/pdf?id=hA7XDfCD1y2)
 
 ### Results
 We show the performance on several datesets without rescoring reported from original paper. * indicates training with knowledge distillation from a big Transformer; ^ denotes training without sequence-level knowledge distillation; # refers to results on IWSLT'16 dataset. 
