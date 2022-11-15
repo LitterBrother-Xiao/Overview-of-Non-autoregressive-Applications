@@ -47,7 +47,7 @@ ACL 2022 [Non-Autoregressive Sequence Generation](https://github.com/NAR-tutoria
 - [21EMNLP] Learning to Rewrite for Non-Autoregressive Neural Machine Translation. [Paper](https://aclanthology.org/2021.emnlp-main.265.pdf) & [Code](https://github.com/xwgeng/RewriteNAT)  
 - [22ICLR] STEP-UNROLLED DENOISING AUTOENCODERS FOR TEXT GENERATION. [Paper](https://arxiv.org/pdf/2112.06749.pdf) & [Code](https://github.com/vvvm23/sundae)
 - [22ICLR] IMPROVING NON-AUTOREGRESSIVE TRANSLATION MODELS WITHOUT DISTILLATION. [Paper](https://openreview.net/pdf?id=I2Hw58KHp8O) & [Code](https://github.com/layer6ai-labs/CMLMC) 
-- [UnderReview] DEEP EQUILIBRIUM NON-AUTOREGRESSIVE SEQUENCE LEARNING. [Paper](DEEP EQUILIBRIUM NON-AUTOREGRESSIVE SEQUENCE LEARNING) 
+- [UnderReview] DEEP EQUILIBRIUM NON-AUTOREGRESSIVE SEQUENCE LEARNING. [Paper](https://openreview.net/pdf?id=bnkvnbGEXnc) 
 - [22ArXiv] Non-Autoregressive Machine Translation with Translation Memories. [Paper](https://arxiv.org/pdf/2210.06020.pdf)
 - [22ArXiv] Nearest Neighbor Non-autoregressive Text Generation. [Paper](https://arxiv.org/pdf/2208.12496.pdf)
 ### &nbsp;&nbsp;&nbsp;&nbsp;Latent variable-based methods
