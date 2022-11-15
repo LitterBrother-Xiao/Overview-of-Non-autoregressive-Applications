@@ -50,13 +50,15 @@ ACL 2022 [Non-Autoregressive Sequence Generation](https://github.com/NAR-tutoria
 - [UnderReview] DEEP EQUILIBRIUM NON-AUTOREGRESSIVE SEQUENCE LEARNING. [Paper](https://openreview.net/pdf?id=bnkvnbGEXnc) 
 - [22ArXiv] Non-Autoregressive Machine Translation with Translation Memories. [Paper](https://arxiv.org/pdf/2210.06020.pdf)
 - [22ArXiv] Nearest Neighbor Non-autoregressive Text Generation. [Paper](https://arxiv.org/pdf/2208.12496.pdf)
+- [22NeurIPS] INSNET: An Efficient, Flexible, and Performant Insertion-based Text Generation Model. [Paper](file:///G:/2022-1-24/%E6%95%B0%E6%8D%AE/nmt/2022/neuips_iclr/INSNETAn%20Efficient,%20Flexible,%20and%20Performant.pdf)
+
 ### &nbsp;&nbsp;&nbsp;&nbsp;Latent variable-based methods
 - [18ICLR] NON-AUTOREGRESSIVE NEURAL MACHINE TRANSLATION. [Paper](https://arxiv.org/pdf/1711.02281.pdf) & [Code](https://github.com/salesforce/nonauto-nmt)
 - [19EMNLP-IJCNLP] FlowSeq: Non-Autoregressive Conditional Sequence Generation with Generative Flow. [Paper](https://arxiv.org/pdf/1909.02480v1.pdf) & [Code](https://github.com/XuezheMax/flowseq)
 - [19NeurIPS] Fast Structured Decoding for Sequence Models. [Paper](https://arxiv.org/pdf/1910.11555.pdf) 
 - [19ArXiv] Non-autoregressive Transformer by Position Learning. [Paper](https://arxiv.org/pdf/1911.10677.pdf)  
 - [19ACL] Syntactically Supervised Transformers for Faster Neural Machine Translation. [Paper](https://aclanthology.org/P19-1122.pdf) & [Code](https://github.com/dojoteef/synst)
-- [20AAAI] Latent-Variable Non-Autoregressive Neural Machine Translation with Deterministic Inference using a Delta Posterior. [Paper](https://arxiv.org/pdf/1908.07181v1.pdf) & - [Code](https://github.com/zomux/lanmt)   
+- [20AAAI] Latent-Variable Non-Autoregressive Neural Machine Translation with Deterministic Inference using a Delta Posterior. [Paper](https://arxiv.org/pdf/1908.07181v1.pdf) & [Code](https://github.com/zomux/lanmt)   
 - [20EMNLP] Non-Autoregressive Machine Translation with Latent Alignments. [Paper](https://aclanthology.org/2020.emnlp-main.83.pdf)  
 - [20ArXiv] Incorporating a Local Translation Mechanism into Non-autoregressive Translation. [Paper](https://arxiv.org/pdf/2011.06132.pdf) & [Code](https://github.com/shawnkx/NAT-with-Local-AT)
 - [21EMNLP] AligNART: Non-autoregressive Neural Machine Translation by Jointly Learning to Estimate Alignment and Translate. [Paper](https://aclanthology.org/2021.emnlp-main.1.pdf)  
