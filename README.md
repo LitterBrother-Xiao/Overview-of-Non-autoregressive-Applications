@@ -69,6 +69,7 @@ ACL 2022 [Non-Autoregressive Sequence Generation](https://github.com/NAR-tutoria
 - [19AAAI] Non-Autoregressive Machine Translation with Auxiliary Regularization. [Paper](https://arxiv.org/pdf/1902.10245.pdf)   
 - [20COLING] Context-Aware Cross-Attention for Non-Autoregressive Translation. [Paper](https://aclanthology.org/2020.coling-main.389.pdf)  
 - [21ArXiv] LAVA NAT: A Non-Autoregressive Translation Model with Look-Around Decoding and Vocabulary Attention. [Paper](https://arxiv.org/pdf/2002.03084v1.pdf)
+- [21AAAI] Non-Autoregressive Translation with Layer-Wise Prediction and Deep Supervision. [Paper](https://arxiv.org/abs/2110.07515) & [Code](https://github.com/chenyangh/DSLP)
 - [22ArXiv] Non-autoregressive Translation with Dependency-Aware Decoder. [Paper](https://arxiv.org/pdf/2203.16266.pdf) & [Code](https://github.com/zja-nlp/NAT_with_DAD)
 
 ### Criterion
@@ -78,12 +79,13 @@ ACL 2022 [Non-Autoregressive Sequence Generation](https://github.com/NAR-tutoria
 - [20AAAI] Minimizing the Bag-of-Ngrams Difference for Non-Autoregressive Neural Machine Translation. [Paper](https://arxiv.org/pdf/1911.09320.pdf) & [Code](https://github.com/ictnlp/BoN-NAT)  
 - [20ICML] Aligned Cross Entropy for Non-Autoregressive Machine Translation. [Paper](https://arxiv.org/pdf/2004.01655.pdf) & [Code](https://github.com/m3yrin/aligned-cross-entropy)  
 - [21ICML] Order-Agnostic Cross Entropy for Non-Autoregressive Machine Translation. [Paper](https://arxiv.org/pdf/2106.05093.pdf) & [Code](https://github.com/tencent-ailab/ICML21_OAXE)
-- [UnderReview] Maximum Proxy-Likelihood Estimation for Non-autoregressive Machine Translation. [Paper](https://openreview.net/pdf?id=ps4ihHcV19)
+- [22ICML] On the Learning of Non-Autoregressive Transformers. [Paper]([https://openreview.net/pdf?id=ps4ihHcV19](https://arxiv.org/pdf/2206.05975.pdf)
 - [22NAACL] One Reference Is Not Enough: Diverse Distillation with Reference Selection for Non-Autoregressive Translation. [Paper](https://arxiv.org/pdf/2205.14333.pdf) & [Code](https://github.com/ictnlp/DDRS-NAT)
 - [22EMNLP] Multi-Granularity Optimization for Non-Autoregressive Translation. [Paper](https://arxiv.org/pdf/2210.11017.pdf)
 - [22COLNG] ngram-OAXE: Phrase-Based Order-Agnostic Cross Entropy for Non-Autoregressive Machine Translation. [Paper](https://arxiv.org/pdf/2210.03999.pdf) & [Code]( https://github.com/tencent-ailab/machine-translation/COLING22_ngram-OAXE/)
 - [22NeurIPS] Non-Monotonic Latent Alignments for CTC-Based Non-Autoregressive Machine Translation. [Paper](https://arxiv.org/pdf/2210.03953.pdf) & 
 [Code](https://github.com/ictnlp/NMLA-NAT.)
+- [22NAACL] A Study of Syntactic Multi-Modality in Non-Autoregressive Machine Translation. [Paper](https://arxiv.org/pdf/2207.04206.pdf)
 
 ### Decoding
 - [18EMNLP] Semi-Autoregressive Neural Machine Translation. [Paper](https://aclanthology.org/D18-1044.pdf)   
@@ -115,7 +117,6 @@ ACL 2022 [Non-Autoregressive Sequence Generation](https://github.com/NAR-tutoria
 - [22ICML] Directed Acyclic Transformer for Non-Autoregressive Machine Translation. [Paper](https://arxiv.org/pdf/2205.07459.pdf)
 - [UnderReview] FUZZY ALIGNMENTS IN DIRECTED ACYCLIC GRAPH FOR NON-AUTOREGRESSIVE MACHINE TRANSLATION. [Paper](https://openreview.net/pdf?id=LSz-gQyd0zE) 
 - [22EMNLP findings] Viterbi Decoding of Directed Acyclic Transformer for Non-Autoregressive Machine Translation. [Paper](https://arxiv.org/pdf/2210.05193.pdf) 
-- [22NAACL] A Study of Syntactic Multi-Modality in Non-Autoregressive Machine Translation. [Paper](https://arxiv.org/pdf/2207.04206.pdf)
 - [UnderReview] ATTENTIVE MLP FOR NON-AUTOREGRESSIVE GENERATION.[Ppaer](https://openreview.net/pdf?id=hA7XDfCD1y2)
 
 ### Results
@@ -315,3 +316,6 @@ We show the performance on several datesets without rescoring reported from orig
 - [22ECCV] Improved Masked Image Generation with Token-Critic. [Paper](https://arxiv.org/pdf/2209.04439.pdf)
 - [223DV] TEACH: Temporal Action Composition for 3D Humans. [Paper](https://arxiv.org/pdf/2209.04066.pdf)
 - [23ECCV] Non-Autoregressive Sign Language Production via Knowledge Distillation. [Paper](https://arxiv.org/pdf/2208.06183.pdf)
+
+## Difussion Models
+
