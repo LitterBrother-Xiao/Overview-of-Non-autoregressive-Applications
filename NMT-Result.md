@@ -1,4 +1,4 @@
-## We show the performance on several datesets without rescoring reported from original paper. * indicates training with knowledge distillation from a big Transformer; ^ denotes training without sequence-level knowledge distillation; # refers to results on IWSLT'16 dataset. 
+### We show the performance on several datesets without rescoring reported from original paper. * indicates training with knowledge distillation from a big Transformer; ^ denotes training without sequence-level knowledge distillation; # refers to results on IWSLT'16 dataset. 
  
 | Model | Iteration |  Speedup | WMT'14 EN-DE | WMT'14 DE-EN | WMT'16  EN-RO | WMT'16 RO-EN | IWSLT'14/16 EN-DE | IWSLT'14/16 DE-EN |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
