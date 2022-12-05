@@ -124,7 +124,7 @@ ACL 2022 [Non-Autoregressive Sequence Generation](https://github.com/NAR-tutoria
 - [UnderReview] ATTENTIVE MLP FOR NON-AUTOREGRESSIVE GENERATION. [Paper](https://openreview.net/pdf?id=hA7XDfCD1y2)
 
 ### Results
-We show the performance translation on several datesets [here]().
+We show the performance translation on several datesets [here](https://github.com/LitterBrother-Xiao/Overview-of-Non-autoregressive-Applications/blob/main/NMT-Result.md).
 
 ## Speech related (Text to speech, speech translation, automatic speech recognition)
 ### Papers
