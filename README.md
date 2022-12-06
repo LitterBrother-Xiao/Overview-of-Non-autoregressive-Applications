@@ -243,7 +243,6 @@ We show the performance in translation on several datesets [here](https://github
 ### Grammatical Error Correction
 - [21ACL-IJCNLP] Tail-to-Tail Non-Autoregressive Sequence Prediction for Chinese Grammatical Error Correction. [Paper](https://arxiv.org/pdf/2106.01609v3.pdf) & [Code](https://github.com/lipiji/TtT)
 - [21WNUT] Character Transformations for Non-Autoregressive GEC Tagging. [Paper](https://arxiv.org/pdf/2111.09280v1.pdf) & [Code](https://github.com/ufal/wnut2021_character_transformations_gec)
-- [22ArXiv] Acoustic-aware Non-autoregressive Spell Correction with Mask Sample Decoding. [Paper](https://arxiv.org/pdf/2210.08665.pdf)
 - [22EMNLP] Mask the Correct Tokens: An Embarrassingly Simple Approach for Error Correction. [Paper](https://arxiv.org/pdf/2211.13252.pdf)
 
 ### Text Style Transfer
@@ -266,6 +265,7 @@ We show the performance in translation on several datesets [here](https://github
 - [22ArXiv] NAPG: Non-Autoregressive Program Generation for Hybrid Tabular-Textual Question Answering. [Paper](https://arxiv.org/pdf/2211.03462.pdf)
 - [22ArXiv] Multi-scale Attention Flow for Probabilistic Time Series Forecasting. [Paper](https://arxiv.org/pdf/2205.07493.pdf)
 - [22ArXiv] Non-autoregressive Model for Full-line Code Completion. [Paper](https://arxiv.org/pdf/2204.09877.pdf)
+- [22ArXiv] Acoustic-aware Non-autoregressive Spell Correction with Mask Sample Decoding. [Paper](https://arxiv.org/pdf/2210.08665.pdf)
 
 ## Computer Vision
 - [UnderReview] Semi-Autoregressive Energy Flows: Towards Determinant-Free Training of Normalizing Flows. [Paper](https://openreview.net/forum?id=GBU1mm8_WkV)
