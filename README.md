@@ -181,7 +181,7 @@ We show the performance in translation on several datesets [here](https://github
 - [21NeurIPS] FastSpeech: Fast, Robust and Controllable Text to Speech. [Paper](https://arxiv.org/pdf/1905.09263.pdf) & [Code](https://github.com/coqui-ai/TTS)
 - [21ArXiv] TalkNet 2: Non-Autoregressive Depth-Wise Separable Convolutional Model for Speech Synthesis with Explicit Pitch and Duration Prediction. [Paper](https://arxiv.org/pdf/2104.08189v3.pdf) & [Code](https://github.com/rishikksh20/TalkNet2-pytorch))
 - [21ArXiv] Hierarchical Prosody Modeling for Non-Autoregressive Speech Synthesis. [Paper](https://arxiv.org/pdf/2011.06465v3.pdf) & [Code](https://github.com/ming024/FastSpeech2)
-- [22ArXiv] Controllable and Lossless Non-Autoregressive End-to-End Text-to-Speech. [Paper](https://arxiv.org/pdf/2207.06088.pdf) & 
+- [22ArXiv] Controllable and Lossless Non-Autoregressive End-to-End Text-to-Speech. [Paper](https://arxiv.org/pdf/2207.06088.pdf) 
 - [22ACL] Cross-Utterance Conditioned VAE for Non-Autoregressive Text-to-Speech. [Paper](https://arxiv.org/pdf/2205.04120.pdf)
 - [UnderReview] BAG OF TRICKS FOR UNSUPERVISED TTS. [Paper](https://openreview.net/pdf?id=SbR9mpTuBn).
 - [23ICASSP] Spoofed training data for speech spoofing countermeasure can be efficiently created using neural vocoders. [Paper](https://arxiv.org/pdf/2210.10570.pdf)
@@ -262,7 +262,6 @@ We show the performance in translation on several datesets [here](https://github
 - [21ArXiv] EncT5: A Framework for Fine-tuning T5 as Non-autoregressive Models. [Paper](https://arxiv.org/pdf/2110.08426v1.pdf)
 - [21EMNLP] Maximal Clique Based Non-Autoregressive Open Information Extraction. [Paper](https://aclanthology.org/2021.emnlp-main.764.pdf)
 - [20ArXiv] A Study on the Autoregressive and non-Autoregressive Multi-label Learning. [Paper](https://arxiv.org/pdf/2012.01711v1.pdf)
-
 - [22ArXiv] Capture Salient Historical Information: A Fast and Accurate Non-Autoregressive Model for Multi-turn Spoken Language Understanding. [Paper](https://arxiv.org/pdf/2206.12209.pdf)
 - [22ArXiv] Continuous conditional video synthesis by neural processes. [Paper](https://arxiv.org/pdf/2210.05810.pdf) 
 - [22ArXiv] Multi-scale Attention Flow for Probabilistic Time Series Forecasting. [Paper](https://arxiv.org/pdf/2205.07493.pdf)
