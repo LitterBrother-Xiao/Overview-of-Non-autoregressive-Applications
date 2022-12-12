@@ -89,7 +89,7 @@ ACL 2022 [Non-Autoregressive Sequence Generation](https://github.com/NAR-tutoria
 - [22EMNLP] Multi-Granularity Optimization for Non-Autoregressive Translation. [Paper](https://arxiv.org/pdf/2210.11017.pdf)
 - [22COLNG] ngram-OAXE: Phrase-Based Order-Agnostic Cross Entropy for Non-Autoregressive Machine Translation. [Paper](https://arxiv.org/pdf/2210.03999.pdf) & [Code]( https://github.com/tencent-ailab/machine-translation/COLING22_ngram-OAXE/)
 - [22NeurIPS] Non-Monotonic Latent Alignments for CTC-Based Non-Autoregressive Machine Translation. [Paper](https://arxiv.org/pdf/2210.03953.pdf) & 
-[Code](https://github.com/ictnlp/NMLA-NAT.)
+[Code](https://github.com/ictnlp/NMLA-NAT)
 - [22NAACL] A Study of Syntactic Multi-Modality in Non-Autoregressive Machine Translation. [Paper](https://arxiv.org/pdf/2207.04206.pdf)
 
 ### Decoding
@@ -250,18 +250,21 @@ We show the performance in translation on several datesets [here](https://github
 
 ### Controllable Text Generation
 - [21ACL-IJCNLP Findings] A Non-Autoregressive Edit-Based Approach to Controllable Text Simplification. [Paper](https://aclanthology.org/2021.findings-acl.330.pdf)
-- [22ArXiv] Gradient-Based Constrained Sampling from Language Models. [Paper](https://arxiv.org/pdf/2205.12558.pdf)
+- [22ArXiv] Gradient-Based Constrained Sampling from Language Models. [Paper](https://arxiv.org/pdf/2205.12558.pdf) & [Code](https://github.com/Sachin19/mucoco/tree/sampling)
 - [22ArXiv] Diffusion-LM Improves Controllable Text Generation. [Paper](https://arxiv.org/pdf/2205.14217.pdf) & [Code](https://github.com/XiangLi1999/Diffusion-LM)
 - [22ArXiv] AutoTemplate: A Simple Recipe for Lexically Constrained Text Generation. [Paper](https://arxiv.org/pdf/2211.08387.pdf)
 
+### Question Answering
+- [22ArXiv] NAPG: Non-Autoregressive Program Generation for Hybrid Tabular-Textual Question Answering. [Paper](https://arxiv.org/pdf/2211.03462.pdf)
+- [22ArXiv] KECP: Knowledge Enhanced Contrastive Prompting for Few-shot Extractive Question Answering. [Paper](https://arxiv.org/pdf/2205.03071.pdf) & [Code](https://github.com/alibaba/EasyNLP)
+- 
 ### Others
 - [21ArXiv] EncT5: A Framework for Fine-tuning T5 as Non-autoregressive Models. [Paper](https://arxiv.org/pdf/2110.08426v1.pdf)
 - [21EMNLP] Maximal Clique Based Non-Autoregressive Open Information Extraction. [Paper](https://aclanthology.org/2021.emnlp-main.764.pdf)
 - [20ArXiv] A Study on the Autoregressive and non-Autoregressive Multi-label Learning. [Paper](https://arxiv.org/pdf/2012.01711v1.pdf)
-- [22ArXiv] KECP: Knowledge Enhanced Contrastive Prompting for Few-shot Extractive Question Answering. [Paper](https://arxiv.org/pdf/2205.03071.pdf) & [Code](https://github.com/alibaba/EasyNLP)
+
 - [22ArXiv] Capture Salient Historical Information: A Fast and Accurate Non-Autoregressive Model for Multi-turn Spoken Language Understanding. [Paper](https://arxiv.org/pdf/2206.12209.pdf)
 - [22ArXiv] Continuous conditional video synthesis by neural processes. [Paper](https://arxiv.org/pdf/2210.05810.pdf) 
-- [22ArXiv] NAPG: Non-Autoregressive Program Generation for Hybrid Tabular-Textual Question Answering. [Paper](https://arxiv.org/pdf/2211.03462.pdf)
 - [22ArXiv] Multi-scale Attention Flow for Probabilistic Time Series Forecasting. [Paper](https://arxiv.org/pdf/2205.07493.pdf)
 - [22ArXiv] Non-autoregressive Model for Full-line Code Completion. [Paper](https://arxiv.org/pdf/2204.09877.pdf)
 - [22ArXiv] Acoustic-aware Non-autoregressive Spell Correction with Mask Sample Decoding. [Paper](https://arxiv.org/pdf/2210.08665.pdf)
@@ -279,8 +282,8 @@ We show the performance in translation on several datesets [here](https://github
 
 ### Image Caption
 - [22ECCV] Explicit Image Caption Editing. [Paper](https://arxiv.org/pdf/2207.09625.pdf) & [Code](https://github.com/baaaad/ECE)
-- [22Multimedia ] Efficient Modeling of Future Context for Image Captioning. [Paper](https://arxiv.org/pdf/2207.10897.pdf)
-- [22NeurIPS] Learning Distinct and Representative Modes for Image Captioning. [Paper](https://arxiv.org/pdf/2209.08231.pdf)
+- [22Multimedia ] Efficient Modeling of Future Context for Image Captioning. [Paper](https://arxiv.org/pdf/2207.10897.pdf) & [Code](https://github.com/feizc/Future-Caption)
+- [22NeurIPS] Learning Distinct and Representative Modes for Image Captioning. [Paper](https://arxiv.org/pdf/2209.08231.pdf) & [Code]( https://github.com/bladewaltz1/ModeCap)
 - [23AAAI] Uncertainty-Aware Image Captioning. [Paper](https://arxiv.org/pdf/2211.16769.pdf)
 
 ## Specially, we present recent progress of difussion models in different tasks, which also adpot non-autoregressive format in each difffusion step.
