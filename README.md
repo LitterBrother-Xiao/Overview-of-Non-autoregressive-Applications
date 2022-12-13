@@ -288,7 +288,7 @@ We show the performance in translation on several datesets [here](https://github
 ## Specially, we present recent progress of difussion models in different tasks, which also adpot non-autoregressive format in each difffusion step.
 ## Difussion Models
 - [21ICLR] WAVEGRAD: ESTIMATING GRADIENTS FOR WAVEFORM GENERATION. [Paper](https://arxiv.org/pdf/2009.00713.pdf)
-- [21NeuIPS] Structured Denoising Diffusion Models in Discrete State-Spaces. [Paper](https://arxiv.org/pdf/2210.16886.pdf)
+- [21NeuIPS] Structured Denoising Diffusion Models in Discrete State-Spaces. [Paper](https://arxiv.org/pdf/2107.03006.pdf)
 - [22ArXiv] Photorealistic text-to-image diffusion models with deep language understanding. [Paper](https://arxiv.org/pdf/2205.11487.pdf)
 - [22ArXiv] Hierarchical Text-Conditional Image Generation with CLIP Latents. [Paper](https://arxiv.org/pdf/2204.06125.pdf)
 - [22ICML] Glide: Towards photorealistic image generation and editing with text-guided diffusion models. [Paper](https://arxiv.org/pdf/2112.10741.pdf)
