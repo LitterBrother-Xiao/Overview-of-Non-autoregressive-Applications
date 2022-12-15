@@ -206,7 +206,6 @@ We show the performance in translation on several datesets [here](https://github
 - [UnderReview] REPHRASETTS: DYNAMIC LENGTH TEXT BASED SPEECH INSERTION WITH SPEAKER STYLE TRANSFER. [Paper](https://openreview.net/pdf?id=8zsK9lbna9L)
 
 
-
 ## Other tasks (Text Summarization; Dialogue and Intent Detection; Grammatical Error Correction; Text Style Transfer; Parsing; etc.)
 ### Papers
 ### General-Purpose methods
@@ -220,12 +219,10 @@ We show the performance in translation on several datesets [here](https://github
 - [22ArXiv] A Self-Paced Mixed Distillation Method for Non-Autoregressive Generation. [Paper](https://arxiv.org/pdf/2205.11162.pdf)
 - [22EMNLP] ELMER: A Non-Autoregressive Pre-trained Language Model for Efficient and Effective Text Generation. [Paper](https://arxiv.org/pdf/2210.13304.pdf) &   [Code](https://github.com/RUCAIBox/ELMER)
 
-
-
-
 ### Summarization
-- [22ACL] Learning Non-Autoregressive Models from Search for Unsupervised Sentence Summarization. [Paper](https://openreview.net/pdf?id=UNzc8gReN7m).
-- [22Arxiv] A Character-Level Length-Control Algorithm for Non-Autoregressive Sentence Summarization. [Paper](https://arxiv.org/pdf/2205.14522.pdf).
+- [22ACL] Learning Non-Autoregressive Models from Search for Unsupervised Sentence Summarization. [Paper](https://openreview.net/pdf?id=UNzc8gReN7m)
+- [22Arxiv] A Character-Level Length-Control Algorithm for Non-Autoregressive Sentence Summarization. [Paper](https://arxiv.org/pdf/2205.14522.pdf)
+- 
 ### Dialogue
 - [21EMNLP] Thinking Clearly, Talking Fast: Concept-Guided Non-Autoregressive Generation for Open-Domain Dialogue Systems. [Paper](https://arxiv.org/pdf/2109.04084v1.pdf) & [Code](https://github.com/rowitzou/cg-nar)
 - [20ArXiv] Non-Autoregressive Neural Dialogue Generation. [Paper](https://arxiv.org/pdf/2002.04250v2.pdf)
@@ -257,7 +254,13 @@ We show the performance in translation on several datesets [here](https://github
 ### Question Answering
 - [22ArXiv] NAPG: Non-Autoregressive Program Generation for Hybrid Tabular-Textual Question Answering. [Paper](https://arxiv.org/pdf/2211.03462.pdf)
 - [22ArXiv] KECP: Knowledge Enhanced Contrastive Prompting for Few-shot Extractive Question Answering. [Paper](https://arxiv.org/pdf/2205.03071.pdf) & [Code](https://github.com/alibaba/EasyNLP)
-- 
+
+### Image Caption
+- [22ECCV] Explicit Image Caption Editing. [Paper](https://arxiv.org/pdf/2207.09625.pdf) & [Code](https://github.com/baaaad/ECE)
+- [22Multimedia ] Efficient Modeling of Future Context for Image Captioning. [Paper](https://arxiv.org/pdf/2207.10897.pdf) & [Code](https://github.com/feizc/Future-Caption)
+- [22NeurIPS] Learning Distinct and Representative Modes for Image Captioning. [Paper](https://arxiv.org/pdf/2209.08231.pdf) & [Code]( https://github.com/bladewaltz1/ModeCap)
+- [23AAAI] Uncertainty-Aware Image Captioning. [Paper](https://arxiv.org/pdf/2211.16769.pdf)
+
 ### Others
 - [21ArXiv] EncT5: A Framework for Fine-tuning T5 as Non-autoregressive Models. [Paper](https://arxiv.org/pdf/2110.08426v1.pdf)
 - [21EMNLP] Maximal Clique Based Non-Autoregressive Open Information Extraction. [Paper](https://aclanthology.org/2021.emnlp-main.764.pdf)
@@ -278,12 +281,6 @@ We show the performance in translation on several datesets [here](https://github
 - [23ECCV] Non-Autoregressive Sign Language Production via Knowledge Distillation. [Paper](https://arxiv.org/pdf/2208.06183.pdf)
 - [22ArXiv] Megapixel Image Generation with Step-Unrolled Denoising Autoencoders. [Paper](https://arxiv.org/pdf/2206.12351.pdf) 
 - [22ArXiv] M6-Fashion: High-Fidelity Multi-modal Image Generation and Editing. [Paper](https://arxiv.org/pdf/2205.11705.pdf)
-
-### Image Caption
-- [22ECCV] Explicit Image Caption Editing. [Paper](https://arxiv.org/pdf/2207.09625.pdf) & [Code](https://github.com/baaaad/ECE)
-- [22Multimedia ] Efficient Modeling of Future Context for Image Captioning. [Paper](https://arxiv.org/pdf/2207.10897.pdf) & [Code](https://github.com/feizc/Future-Caption)
-- [22NeurIPS] Learning Distinct and Representative Modes for Image Captioning. [Paper](https://arxiv.org/pdf/2209.08231.pdf) & [Code]( https://github.com/bladewaltz1/ModeCap)
-- [23AAAI] Uncertainty-Aware Image Captioning. [Paper](https://arxiv.org/pdf/2211.16769.pdf)
 
 ## Specially, we present recent progress of difussion models in different tasks, which also adpot non-autoregressive format in each difffusion step.
 ## Difussion Models
