@@ -20,7 +20,7 @@ ACL 2022 [Non-Autoregressive Sequence Generation](https://github.com/NAR-tutoria
 - [21ICLR] UNDERSTANDING AND IMPROVING LEXICAL CHOICE IN NON-AUTOREGRESSIVE TRANSLATION. [Paper](https://arxiv.org/pdf/2012.14583v2.pdf)  
 - [21ACL-IJCNLP] Rejuvenating Low-Frequency Words: Making the Most of Parallel Data in Non-Autoregressive Translation. [Paper](https://arxiv.org/pdf/2106.00903.pdf) & [Code](https://github.com/longyuewangdcu/RLFW-NAT)  
 - [22Findings of ACL-IJCNLP] How Does Distilled Data Complexity Impact the Quality and Confidence of Non-Autoregressive Machine Translation? [Paper](https://aclanthology.org/2021.findings-acl.385.pdf)
-- [UnderReview] Self-Distillation Mixup Training for Non-autoregressive Neural Machine Translation. [Paper](https://arxiv.org/pdf/2112.11640v1.pdf)  
+- [22ArXiv] Self-Distillation Mixup Training for Non-autoregressive Neural Machine Translation. [Paper](https://arxiv.org/pdf/2112.11640v1.pdf)  
 - [22NAACL] Neighbors Are Not Strangers: Improving Non-Autoregressive Translation under Low-Frequency Lexical Constraints. [Paper](https://openreview.net/pdf?id=T-Wh9Ds-qk)
 - [22ArXiv] DiMS: Distilling Multiple Steps of Iterative Non-Autoregressive Transformers. [Paper](https://arxiv.org/pdf/2206.02999.pdf) & [Code](https://github.com/layer6ai-labs/DiMS)
 - [22NAACL] One Reference Is Not Enough: Diverse Distillation with Reference Selection for Non-Autoregressive Translation. [Paper](https://arxiv.org/pdf/2205.14333.pdf) & [Code](https://github.com/ictnlp/DDRS-NAT)
@@ -76,9 +76,9 @@ ACL 2022 [Non-Autoregressive Sequence Generation](https://github.com/NAR-tutoria
 - [21AAAI] Non-Autoregressive Translation with Layer-Wise Prediction and Deep Supervision. [Paper](https://arxiv.org/abs/2110.07515) & [Code](https://github.com/chenyangh/DSLP)
 - [22ArXiv] Non-autoregressive Translation with Dependency-Aware Decoder. [Paper](https://arxiv.org/pdf/2203.16266.pdf) & [Code](https://github.com/zja-nlp/NAT_with_DAD)
 - [22ICML] Directed Acyclic Transformer for Non-Autoregressive Machine Translation. [Paper](https://arxiv.org/pdf/2205.07459.pdf)
-- [UnderReview] FUZZY ALIGNMENTS IN DIRECTED ACYCLIC GRAPH FOR NON-AUTOREGRESSIVE MACHINE TRANSLATION. [Paper](https://openreview.net/pdf?id=LSz-gQyd0zE) 
 - [22EMNLP findings] Viterbi Decoding of Directed Acyclic Transformer for Non-Autoregressive Machine Translation. [Paper](https://arxiv.org/pdf/2210.05193.pdf) 
-
+- [23ICLR] FUZZY ALIGNMENTS IN DIRECTED ACYCLIC GRAPH FOR NON-AUTOREGRESSIVE MACHINE TRANSLATION. [Paper](https://openreview.net/pdf?id=LSz-gQyd0zE) 
+- 
 ### Criterion
 - [06ICML] Connectionist Temporal Classification: Labelling Unsegmented Sequence Data with Recurrent Neural Networks. [Paper](https://www.cs.toronto.edu/~graves/icml_2006.pdf) & [Code](https://github.com/parlance/ctcdecode)  
 - [18EMNLP] End-to-End Non-Autoregressive Neural Machine Translation with Connectionist Temporal Classification. [Paper](https://aclanthology.org/D18-1336.pdf)  
@@ -97,7 +97,7 @@ ACL 2022 [Non-Autoregressive Sequence Generation](https://github.com/NAR-tutoria
 - [18EMNLP] Semi-Autoregressive Neural Machine Translation. [Paper](https://aclanthology.org/D18-1044.pdf)   
 - [20ACL] Learning to Recover from Multi-Modality Errors for Non-Autoregressive Neural Machine Translation. [Paper](https://aclanthology.org/2020.acl-main.277.pdf) & [Code](https://github.com/ranqiu92/RecoverSAT) 
 - [20COLING] Train Once, and Decode As You Like. [Paper](https://aclanthology.org/2020.coling-main.25.pdf)
-- [UnderReview] Diformer: Directional Transformer for Neural Machine Translation. [Paper](https://arxiv.org/pdf/2112.11632v2.pdf)
+- [22EAMT] Diformer: Directional Transformer for Neural Machine Translation. [Paper](https://arxiv.org/pdf/2112.11632v2.pdf)
 - [22ArXiv] Lossless Speedup of Autoregressive Translation with Generalized Aggressive Decoding. [Paper](https://arxiv.org/pdf/2203.16487v2.pdf) & [Code](https://github.com/hemingkx/Generalized-Aggressive-Decoding)
 - [UnderReview] HYBRID-REGRESSIVE NEURAL MACHINE TRANSLATION. [Paper](https://openreview.net/pdf?id=2NQ8wlmU9a_)
 - [22EMNLP] Candidate Soups: Fusing Candidate Results Improves Translation Quality for Non-Autoregressive Translation. [Paper](https://aclanthology.org/2022.emnlp-main.318.pdf) & [Code](https://github.com/boom-R123/Candidate_Soups)
@@ -157,7 +157,7 @@ We show the performance in translation on several datesets [here](https://github
 - [21ICCASP] Intermediate loss regularization for ctc-based speech recognition. [Paper](https://arxiv.org/pdf/2102.03216v1.pdf) & [Code](https://github.com/espnet/espnet) 
 - [21ArXiv] Relaxing the conditional independence assumption of CTC-based ASR by conditioning on intermediate predictions. [Paper](https://arxiv.org/pdf/2104.02724.pdf) & [Code](https://github.com/espnet/espnet)
 - [22ArXiv] Improving CTC-based ASR Models with Gated Interlayer Collaboration. [Paper](https://arxiv.org/pdf/2205.12462.pdf)
-- [UnderReview] PATCORRECT: NON-AUTOREGRESSIVE PHONEMEAUGMENTED TRANSFORMER FOR ASR ERROR CORRECTION. [Paper](https://openreview.net/pdf?id=njAes-sX0m)
+- [22ArXiv] PATCORRECT: NON-AUTOREGRESSIVE PHONEMEAUGMENTED TRANSFORMER FOR ASR ERROR CORRECTION. [Paper](https://openreview.net/pdf?id=njAes-sX0m)
 - [22SLT] A context-aware knowledge transferring strategy for CTC-based ASR. [Paper](https://arxiv.org/pdf/2210.06244.pdf)
 - [22Interspeech] Non-autoregressive Error Correction for CTC-based ASR with Phone-conditioned Masked LM. [Paper](https://arxiv.org/pdf/2209.04062.pdf)
 - [22SLT] Inter-KD: Intermediate Knowledge Distillation for CTC-Based Automatic Speech Recognition. [Paper](https://arxiv.org/pdf/2211.15075.pdf)
@@ -185,7 +185,7 @@ We show the performance in translation on several datesets [here](https://github
 - [21ArXiv] Hierarchical Prosody Modeling for Non-Autoregressive Speech Synthesis. [Paper](https://arxiv.org/pdf/2011.06465v3.pdf) & [Code](https://github.com/ming024/FastSpeech2)
 - [22ArXiv] Controllable and Lossless Non-Autoregressive End-to-End Text-to-Speech. [Paper](https://arxiv.org/pdf/2207.06088.pdf) 
 - [22ACL] Cross-Utterance Conditioned VAE for Non-Autoregressive Text-to-Speech. [Paper](https://arxiv.org/pdf/2205.04120.pdf)
-- [UnderReview] BAG OF TRICKS FOR UNSUPERVISED TTS. [Paper](https://openreview.net/pdf?id=SbR9mpTuBn).
+- [22ICLR] BAG OF TRICKS FOR UNSUPERVISED TTS. [Paper](https://openreview.net/pdf?id=SbR9mpTuBn).
 - [23ICASSP] Spoofed training data for speech spoofing countermeasure can be efficiently created using neural vocoders. [Paper](https://arxiv.org/pdf/2210.10570.pdf)
 - [23IALP] MnTTS: An Open-Source Mongolian Text-to-Speech Synthesis Dataset and Accompanied Baseline. [Paper](https://arxiv.org/pdf/2209.10848.pdf)
 
@@ -196,7 +196,7 @@ We show the performance in translation on several datesets [here](https://github
 - [21ArXiv] Non-autoregressive End-to-end Speech Translation with Parallel Autoregressive Rescoring. [Paper](https://arxiv.org/pdf/2109.04411v1.pdf)
 - [21ASRU] Fast-MD: Fast Multi-Decoder End-to-End Speech Translation with Non-Autoregressive Hidden Intermediates. [Paper](https://arxiv.org/pdf/2109.12804v1.pdf)
 - [22ArXiv] A Novel Chinese Dialect TTS Frontend with Non-Autoregressive Neural Machine Translation. [Paper](https://arxiv.org/pdf/2206.04922.pdf)
-- [UnderReview] TranSpeech: Speech-to-Speech Translation With Bilateral Perturbation. [Paper](https://openreview.net/pdf?id=UVAmFAtC5ye)  
+- [22ArXiv] TranSpeech: Speech-to-Speech Translation With Bilateral Perturbation. [Paper](https://openreview.net/pdf?id=UVAmFAtC5ye)  
 ### Others
 - [22ArXiv] Conditional Deep Hierarchical Variational Autoencoder for Voice Conversion. [Paper](https://arxiv.org/pdf/2112.02796.pdf)
 - [22ICLR] Generating Videos with Dynamics-aware Implicit Generative Adversarial Networks. [Paper](https://arxiv.org/pdf/2202.10571.pdf)
@@ -276,7 +276,7 @@ We show the performance in translation on several datesets [here](https://github
 ## Computer Vision
 - [UnderReview] Semi-Autoregressive Energy Flows: Towards Determinant-Free Training of Normalizing Flows. [Paper](https://openreview.net/forum?id=GBU1mm8_WkV)
 - [UnderReview] LANGUAGE-GUIDED ARTISTIC STYLE TRANSFER USING THE LATENT SPACE OFDALL-E. [Paper](https://openreview.net/pdf?id=yDx3GP7Qjfl)
-- [UnderReview] CHIRODIFF: MODELLING CHIROGRAPHIC DATA WITH DIFFUSION MODELS. [Paper](https://openreview.net/pdf?id=1ROAstc9jv)
+- [23ICLR] CHIRODIFF: MODELLING CHIROGRAPHIC DATA WITH DIFFUSION MODELS. [Paper](https://openreview.net/pdf?id=1ROAstc9jv)
 - [22ArXiv] STPOTR: Simultaneous Human Trajectory and Pose Prediction Using a Non-Autoregressive Transformer for Robot Following Ahead. [Paper](https://arxiv.org/pdf/2209.07600.pdf)
 - [22ECCV] Improved Masked Image Generation with Token-Critic. [Paper](https://arxiv.org/pdf/2209.04439.pdf)
 - [223DV] TEACH: Temporal Action Composition for 3D Humans. [Paper](https://arxiv.org/pdf/2209.04066.pdf)
@@ -292,10 +292,10 @@ We show the performance in translation on several datesets [here](https://github
 - [22ArXiv] Hierarchical Text-Conditional Image Generation with CLIP Latents. [Paper](https://arxiv.org/pdf/2204.06125.pdf)
 - [22ICML] Glide: Towards photorealistic image generation and editing with text-guided diffusion models. [Paper](https://arxiv.org/pdf/2112.10741.pdf)
 - [22ArXiv] Classifier-free diffusion guidance. [Paper](https://arxiv.org/pdf/2207.12598.pdf)
-- [UnderReview] CHIRODIFF: MODELLING CHIROGRAPHIC DATA WITH DIFFUSION MODELS. [Paper](https://openreview.net/pdf?id=1ROAstc9jv)
+- [23ICLR] CHIRODIFF: MODELLING CHIROGRAPHIC DATA WITH DIFFUSION MODELS. [Paper](https://openreview.net/pdf?id=1ROAstc9jv)
 - [22ICML]  Latent diffusion energy based model for interpretable text modeling. [Paper](https://arxiv.org/abs/2206.05895) 
 - [22ArXiv] Diffusion-lm improves controllable text generation. [Paper](https://arxiv.org/pdf/2205.14217.pdf) & [Code](https://github.com/XiangLi1999/Diffusion-LM.git)
-- [UnderReview] DIFFUSER: DIFFUSION VIA EDIT-BASED RECONSTRUCTION. [Paper](https://arxiv.org/pdf/2210.16886.pdf) & [Code](https://github.com/machelreid/diffuser)
+- [23ICLR] DIFFUSER: DIFFUSION VIA EDIT-BASED RECONSTRUCTION. [Paper](https://arxiv.org/pdf/2210.16886.pdf) & [Code](https://github.com/machelreid/diffuser)
 - [22ArXiv] DIFFUSEQ: SEQUENCE TO SEQUENCE TEXT GENERATION WITH DIFFUSION MODELS. [Paper](https://arxiv.org/pdf/2210.08933.pdf) & [Code](https://github.com/Shark-NLP/DiffuSeq)
 - [22ArXiv] Understanding Diffusion Models: A Unified Perspective. [Paper](https://arxiv.org/pdf/2208.11970.pdf)
 - [22ArXiv] Diffusion Models: A Comprehensive Survey of Methods and Applications. [Paper](https://arxiv.org/pdf/2209.00796.pdf)
