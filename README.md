@@ -10,6 +10,7 @@ A survey on non-autoregressive neural machine translation including a brief revi
 ## Neural machine translation
 ### Tutorial
 ACL 2022 [Non-Autoregressive Sequence Generation](https://github.com/NAR-tutorial/acl2022)
+EMNLP 2023 [Non-Autoregressive Models for Fast Sequence Generation](https://aclanthology.org/2022.emnlp-tutorials.6.pdf)
 ### Papers
 ### Data manipulation
 ### &nbsp;&nbsp;&nbsp;&nbsp; Knowledge distillation
