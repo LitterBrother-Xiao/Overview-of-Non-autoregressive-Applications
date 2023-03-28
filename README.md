@@ -52,6 +52,8 @@ A survey on non-autoregressive neural machine translation including a brief revi
 - [22ArXiv] Non-Autoregressive Machine Translation with Translation Memories. [Paper](https://arxiv.org/pdf/2210.06020.pdf)
 - [22ArXiv] Nearest Neighbor Non-autoregressive Text Generation. [Paper](https://arxiv.org/pdf/2208.12496.pdf)
 - [22NeurIPS] INSNET: An Efficient, Flexible, and Performant Insertion-based Text Generation Model. [Paper](https://arxiv.org/pdf/2102.11008.pdf)
+- [23AAAI] AMOM: Adaptive Masking over Masking for Conditional Masked Language Model. [Paper](https://arxiv.org/pdf/2303.07457.pdf)& [Code](https://github.com/amom-nar/AMOM)
+
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;Latent variable-based methods
 - [18ICLR] NON-AUTOREGRESSIVE NEURAL MACHINE TRANSLATION. [Paper](https://arxiv.org/pdf/1711.02281.pdf) & [Code](https://github.com/salesforce/nonauto-nmt)
@@ -68,6 +70,7 @@ A survey on non-autoregressive neural machine translation including a brief revi
 - [21NAACL-HLT] Non-Autoregressive Translation by Learning Target Categorical Codes. [Paper](https://aclanthology.org/2021.naacl-main.458.pdf) & [Code](https://github.com/baoy-nlp/CNAT)  
 - [21ACL-IJCNLP Findinds] Fully Non-autoregressive Neural Machine Translation:Tricks of the Trade. [Paper](https://aclanthology.org/2021.findings-acl.11.pdf) & [Code](https://github.com/pytorch/fairseq/tree/main/examples/nonautoregressive_translation)  
 - [22EMNLP] Assessing Non-autoregressive Alignment in Neural Machine Translation via Word Reordering. [Paper](https://aclanthology.org/2022.findings-emnlp.172.pdf)
+- [23AAAI] RenewNAT: Renewing Potential Translation for Non-Autoregressive Transformer. [Paper](https://arxiv.org/pdf/2303.07665.pdf)&[Code](https://github.com/AllForward/RenewNAT)
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;Other enhancements-based mothods
 - [19AAAI] Non-Autoregressive Neural Machine Translation with Enhanced Decoder Input. [Paper](https://arxiv.org/pdf/1812.09664.pdf)  
