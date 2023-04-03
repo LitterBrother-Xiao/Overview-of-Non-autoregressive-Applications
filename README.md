@@ -179,7 +179,7 @@ We show the performance in translation on several datesets [here](https://github
 - [22ArXiv] vTTS: visual-text to speech. [Paper](https://arxiv.org/pdf/2203.14725.pdf)
 - [22Interspeech] A Multi-Scale Time-Frequency Spectrogram Discriminator for GAN-based Non-Autoregressive TTS. [Paper](https://arxiv.org/pdf/2203.01080.pdf)
 - [22ACL] Revisiting Over-Smoothness in Text to Speech. [Paper](https://arxiv.org/pdf/2202.13066.pdf)
-- [21ICLR] Bidirectional Variational Inference for Non-Autoregressive Text-to-Speech. [Paper](https://openreview.net/pdf?id=o3iritJHLfO) & [Code](https://github.com/LEEYOONHYUNG/BVAE-TTS
+- [21ICLR] Bidirectional Variational Inference for Non-Autoregressive Text-to-Speech. [Paper](https://openreview.net/pdf?id=o3iritJHLfO) & [Code](https://github.com/LEEYOONHYUNG/BVAE-TTS)
 - [21ArXiv] VARA-TTS: Non-Autoregressive Text-to-Speech Synthesis based on Very Deep VAE with Residual Attention. [Paper](https://arxiv.org/pdf/2102.06431v1.pdf)
 - [21ArXiv] Nana-HDR: A Non-attentive Non-autoregressive Hybrid Model for TTS. [Paper](https://arxiv.org/pdf/2109.13673.pdf)
 - [21Speech Synthesis Workshop] Non-Autoregressive TTS with Explicit Duration Modelling for Low-Resource Highly Expressive Speech. [Paper](https://arxiv.org/pdf/2106.12896v2.pdf)
