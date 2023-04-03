@@ -5,7 +5,7 @@ NAR models aim to speed up decoding and reduce the inference latency, then reali
 
 NAR models are first proposed for neural machine translation, and then are applied for various tasks, such as speech to text, speech gneration, speech translation, text summarization; dialogue and intent detection; grammatical error correction; text style transfer; semantic parsing and etc.
 
-A survey on non-autoregressive neural machine translation including a brief review of other various tasks can be found on https://arxiv.org/abs/2204.09269.
+A survey on non-autoregressive neural machine translation including a brief review of other various tasks can be found on [here](https://arxiv.org/abs/2204.09269).
 
 **************************** Updates ****************************  
 - 2023/4/3: Reorganize the category and add two papers.
