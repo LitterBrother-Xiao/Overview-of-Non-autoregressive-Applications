@@ -7,135 +7,141 @@ NAR models are first proposed for neural machine translation, and then are appli
 
 A survey on non-autoregressive neural machine translation including a brief review of other various tasks can be found on https://arxiv.org/abs/2204.09269.
 
+**************************** Updates ****************************
+
+## NAR with large Pre-trained Language Models
+- [23ArXiv] Text Generation with Diffusion Language Models: A Pre-training Approach with Continuous Paragraph Denoise. [Paper](https://arxiv.org/pdf/2212.11685.pdf) & [Code](https://github.com/microsoft/ProphetNet/tree/master/GENIE)
+- [22EMNLP] ELMER: A Non-Autoregressive Pre-trained Language Model for Efficient and Effective Text Generation. [Paper](https://arxiv.org/pdf/2210.13304.pdf) &   [Code](https://github.com/RUCAIBox/ELMER)
+- [22ArXiv] A Self-Paced Mixed Distillation Method for Non-Autoregressive Generation. [Paper](https://arxiv.org/pdf/2205.11162.pdf)
+- [21ICML] BANG: Bridging Autoregressive and Non-autoregressive Generation with Large Scale Pretraining. [Paper](https://arxiv.org/pdf/2012.15525v3.pdf) & [Code](https://github.com/microsoft/BANG)
+- [22ArXiv] EdiT5: Semi-Autoregressive Text-Editing with T5 Warm-Start. [Paper](https://arxiv.org/pdf/2205.12209.pdf)
+- [22EMNLP] XLM-D: Decorate Cross-lingual Pre-training Model as Non-Autoregressive Neural Machine Translation. [Paper](https://aclanthology.org/2022.emnlp-main.466.pdf)
+- [22EMNLP] JANUS: Joint Autoregressive and Non-autoregressive Training with Auxiliary Loss for Sequence Generation. [Paper](https://aclanthology.org/2022.emnlp-main.550/) & [Code](https://github.com/dropreg/JANUS)
+- [22ACL] Universal conditional masked language pre-training for neural machine translation. [Paper](https://arxiv.org/pdf/2203.09210v1.pdf) & [Code](https://github.com/huawei-noah)
+- [21ArXiv] Improving Non-autoregressive Generation with Mixup Training. [Paper](https://arxiv.org/pdf/2110.11115v1.pdf) & [Code](https://github.com/kongds/mist)
+- [21EACL] Non-Autoregressive Text Generation with Pre-trained Language Models. [Paper](https://arxiv.org/pdf/2102.08220v1.pdf) & [Code](https://github.com/yxuansu/NAG-BERT)
+- [21EACL] Non-autoregressive text generation with pre-trained language models. [Paper](https://aclanthology.org/2021.eacl-main.18.pdf) & [Code](https://github.com/yxuansu/NAG-BERT)  
+- [20NeurIPS] Incorporating bert into parallel sequence decoding with adapters. [Paper](https://arxiv.org/pdf/2010.06138v1.pdf) & [Code](https://github.com/lemmonation/abnet)
+
+
 ## Neural machine translation
 ### Tutorial
 - ACL 2022 [Non-Autoregressive Sequence Generation](https://github.com/NAR-tutorial/acl2022)
 - EMNLP 2023 [Non-Autoregressive Models for Fast Sequence Generation](https://aclanthology.org/2022.emnlp-tutorials.6.pdf)
 ### Papers
-### Data manipulation
 ### &nbsp;&nbsp;&nbsp;&nbsp; Knowledge distillation
+- [22NAACL] One Reference Is Not Enough: Diverse Distillation with Reference Selection for Non-Autoregressive Translation. [Paper](https://arxiv.org/pdf/2205.14333.pdf) & [Code](https://github.com/ictnlp/DDRS-NAT)
+- [22ArXiv] DiMS: Distilling Multiple Steps of Iterative Non-Autoregressive Transformers. [Paper](https://arxiv.org/pdf/2206.02999.pdf) & [Code](https://github.com/layer6ai-labs/DiMS)
+- [22NAACL] Neighbors Are Not Strangers: Improving Non-Autoregressive Translation under Low-Frequency Lexical Constraints. [Paper](https://openreview.net/pdf?id=T-Wh9Ds-qk)
+- [22ArXiv] Self-Distillation Mixup Training for Non-autoregressive Neural Machine Translation. [Paper](https://arxiv.org/pdf/2112.11640v1.pdf)  
+- [22ACL-IJCNLP Findings] How Does Distilled Data Complexity Impact the Quality and Confidence of Non-Autoregressive Machine Translation? [Paper](https://aclanthology.org/2021.findings-acl.385.pdf)
+- [21ACL-IJCNLP] Rejuvenating Low-Frequency Words: Making the Most of Parallel Data in Non-Autoregressive Translation. [Paper](https://arxiv.org/pdf/2106.00903.pdf) & [Code](https://github.com/longyuewangdcu/RLFW-NAT)  
+- [21ICLR] UNDERSTANDING AND IMPROVING LEXICAL CHOICE IN NON-AUTOREGRESSIVE TRANSLATION. [Paper](https://arxiv.org/pdf/2012.14583v2.pdf) 
 - [20ICLR] UNDERSTANDING KNOWLEDGE DISTILLATION IN NON-AUTOREGRESSIVE MACHINE TRANSLATION. [Paper](https://arxiv.org/pdf/1911.02727.pdf.) &
 [Code](https://github.com/pytorch/fairseq/tree/master/examples/nonautoregressive_translation.)  
 - [20ACL] A Study of Non-autoregressive Model for Sequence Generation. [Paper](https://aclanthology.org/2020.acl-main.15.pdf)  
 - [20ACL] Improving Non-autoregressive Neural Machine Translation with Monolingual Data. [paper](https://aclanthology.org/2020.acl-main.171.pdf) 
-- [21ICLR] UNDERSTANDING AND IMPROVING LEXICAL CHOICE IN NON-AUTOREGRESSIVE TRANSLATION. [Paper](https://arxiv.org/pdf/2012.14583v2.pdf)  
-- [21ACL-IJCNLP] Rejuvenating Low-Frequency Words: Making the Most of Parallel Data in Non-Autoregressive Translation. [Paper](https://arxiv.org/pdf/2106.00903.pdf) & [Code](https://github.com/longyuewangdcu/RLFW-NAT)  
-- [22Findings of ACL-IJCNLP] How Does Distilled Data Complexity Impact the Quality and Confidence of Non-Autoregressive Machine Translation? [Paper](https://aclanthology.org/2021.findings-acl.385.pdf)
-- [22ArXiv] Self-Distillation Mixup Training for Non-autoregressive Neural Machine Translation. [Paper](https://arxiv.org/pdf/2112.11640v1.pdf)  
-- [22NAACL] Neighbors Are Not Strangers: Improving Non-Autoregressive Translation under Low-Frequency Lexical Constraints. [Paper](https://openreview.net/pdf?id=T-Wh9Ds-qk)
-- [22ArXiv] DiMS: Distilling Multiple Steps of Iterative Non-Autoregressive Transformers. [Paper](https://arxiv.org/pdf/2206.02999.pdf) & [Code](https://github.com/layer6ai-labs/DiMS)
-- [22NAACL] One Reference Is Not Enough: Diverse Distillation with Reference Selection for Non-Autoregressive Translation. [Paper](https://arxiv.org/pdf/2205.14333.pdf) & [Code](https://github.com/ictnlp/DDRS-NAT)
+ 
 ### &nbsp;&nbsp;&nbsp;&nbsp; Data learning strategy 
+- [22EMNLP Findings] Con-NAT: Contrastive Non-autoregressive Neural Machine Translation. [Paper](https://openreview.net/pdf?id=9_j8yJ6ISSr)
+- [22NAACL] Non-Autoregressive Neural Machine Translation with Consistency Regularization Optimized Variational Framework. [Paper](https://openreview.net/pdf?id=cLe29FcNAKb) & [Code](https://github.com/zomux/lanmt)
+- [22ACL] latent-GLAT: Glancing at Latent Variables for Parallel Text Generation. [Paper](https://arxiv.org/pdf/2204.02030.pdf) & [Code](https://github.com/baoy-nlp/Latent-GLAT)
 - [21ACL-IJCNLP] Glancing Transformer for Non-Autoregressive Neural Machine Translation. [Paper](https://aclanthology.org/2021.acl-long.155.pdf) & [Code](https://github.com/FLC777/GLAT)  
 - [21ACL-IJCNLP Findinds] Progressive Multi-Granularity Training for Non-Autoregressive Translation. [Paper](https://aclanthology.org/2021.findings-acl.247.pdf) 
 - [21ArXiv] MvSR-NAT: Multi-view Subset Regularization for Non-Autoregressive Machine Translation. [Paper](https://arxiv.org/pdf/2108.08447.pdf)  
-- [22ACL] latent-GLAT: Glancing at Latent Variables for Parallel Text Generation. [Paper](https://arxiv.org/pdf/2204.02030.pdf) & [Code](https://github.com/baoy-nlp/Latent-GLAT)
-- [22NAACL] Non-Autoregressive Neural Machine Translation with Consistency Regularization Optimized Variational Framework. [Paper](https://openreview.net/pdf?id=cLe29FcNAKb) & [Code](https://github.com/zomux/lanmt)
-- [22ArXiv] Con-NAT: Contrastive Non-autoregressive Neural Machine Translation. [Paper](https://openreview.net/pdf?id=9_j8yJ6ISSr)
 
-### Modeling 
 ### &nbsp;&nbsp;&nbsp;&nbsp;Iteration-based methods
-- [18EMNLP] Deterministic Non-Autoregressive Neural Sequence Modeling by Iterative Refinement. [Paper](https://aclanthology.org/D18-1149.pdf) & [Code](https://github.com/nyu-dl/dl4mt-nonauto)   
-- [19ICML] Insertion Transformer: Flexible Sequence Generation via Insertion Operations. [Paper](https://arxiv.org/pdf/1902.03249.pdf) & [Code](https://github.com/pytorch/fairseq/tree/master/examples/nonautoregressive_translation)   
-- [19NeurIPS] Levenshtein Transformer. [Paper](https://arxiv.org/pdf/1905.11006v1.pdf) & [Code](https://github.com/pytorch/fairseq/tree/master/examples/nonautoregressive_translation)  
-- [19EMNLP-IJCNLP] Mask-Predict: Parallel Decoding of Conditional Masked Language Models. [Paper](https://aclanthology.org/D19-1633.pdf) & [Code](https://github.com/facebookresearch/Mask-Predict)  
-- [20ArXiv] Semi-autoregressive training improves mask-predict decoding. [Paper](https://arxiv.org/pdf/2001.08785.pdf)  
+- [23AAAI] AMOM: Adaptive Masking over Masking for Conditional Masked Language Model. [Paper](https://arxiv.org/pdf/2303.07457.pdf)& [Code](https://github.com/amom-nar/AMOM)
+- [22NeurIPS] INSNET: An Efficient, Flexible, and Performant Insertion-based Text Generation Model. [Paper](https://arxiv.org/pdf/2102.11008.pdf)
+- [22ArXiv] Non-Autoregressive Machine Translation with Translation Memories. [Paper](https://arxiv.org/pdf/2210.06020.pdf)
+- [22ArXiv] Nearest Neighbor Non-autoregressive Text Generation. [Paper](https://arxiv.org/pdf/2208.12496.pdf)
+- [UnderReview] DEEP EQUILIBRIUM NON-AUTOREGRESSIVE SEQUENCE LEARNING. [Paper](https://openreview.net/pdf?id=bnkvnbGEXnc) 
+- [22ICLR] IMPROVING NON-AUTOREGRESSIVE TRANSLATION MODELS WITHOUT DISTILLATION. [Paper](https://openreview.net/pdf?id=I2Hw58KHp8O) & [Code](https://github.com/layer6ai-labs/CMLMC)
+- [22ICLR] STEP-UNROLLED DENOISING AUTOENCODERS FOR TEXT GENERATION. [Paper](https://arxiv.org/pdf/2112.06749.pdf) & [Code](https://github.com/vvvm23/sundae)
+- [21EMNLP] Learning to Rewrite for Non-Autoregressive Neural Machine Translation. [Paper](https://aclanthology.org/2021.emnlp-main.265.pdf) & [Code](https://github.com/xwgeng/RewriteNAT) 
+ - [20ArXiv] Semi-autoregressive training improves mask-predict decoding. [Paper](https://arxiv.org/pdf/2001.08785.pdf)  
 - [20ICML] Non-autoregressive Machine Translation with Disentangled Context Transformer. [Paper](https://arxiv.org/pdf/2001.05136.pdf) & [Code](https://github.com/facebookresearch/DisCo)  
 - [20EMNLP] Semi-Autoregressive Neural Machine Translation. [Paper](https://aclanthology.org/D18-1044.pdf)   
 - [20ACL] ENGINE: Energy-Based Inference Networks for Non-Autoregressive Machine Translation. [Paper](https://aclanthology.org/2020.acl-main.251.pdf) & [Code](https://github.com/lifu-tu/ENGINE)    
 - [20ACL] Jointly Masked Sequence-to-Sequence Model for Non-Autoregressive Neural Machine Translation. [Paper](https://aclanthology.org/2020.acl-main.36.pdf) & [Code](https://github.com/lemmonation/jm-nat)  
 - [20ICLR] DEEP ENCODER, SHALLOW DECODER:REEVALUATING NON-AUTOREGRESSIVE MACHINE TRANSLATION. [Ppaer](https://arxiv.org/pdf/2006.10369.pdf) & [Code](https://github.com/jungokasai/deep-shallow)  
-- [21EMNLP] Learning to Rewrite for Non-Autoregressive Neural Machine Translation. [Paper](https://aclanthology.org/2021.emnlp-main.265.pdf) & [Code](https://github.com/xwgeng/RewriteNAT)  
-- [22ICLR] STEP-UNROLLED DENOISING AUTOENCODERS FOR TEXT GENERATION. [Paper](https://arxiv.org/pdf/2112.06749.pdf) & [Code](https://github.com/vvvm23/sundae)
-- [22ICLR] IMPROVING NON-AUTOREGRESSIVE TRANSLATION MODELS WITHOUT DISTILLATION. [Paper](https://openreview.net/pdf?id=I2Hw58KHp8O) & [Code](https://github.com/layer6ai-labs/CMLMC) 
-- [UnderReview] DEEP EQUILIBRIUM NON-AUTOREGRESSIVE SEQUENCE LEARNING. [Paper](https://openreview.net/pdf?id=bnkvnbGEXnc) 
-- [22ArXiv] Non-Autoregressive Machine Translation with Translation Memories. [Paper](https://arxiv.org/pdf/2210.06020.pdf)
-- [22ArXiv] Nearest Neighbor Non-autoregressive Text Generation. [Paper](https://arxiv.org/pdf/2208.12496.pdf)
-- [22NeurIPS] INSNET: An Efficient, Flexible, and Performant Insertion-based Text Generation Model. [Paper](https://arxiv.org/pdf/2102.11008.pdf)
-- [23AAAI] AMOM: Adaptive Masking over Masking for Conditional Masked Language Model. [Paper](https://arxiv.org/pdf/2303.07457.pdf)& [Code](https://github.com/amom-nar/AMOM)
-
+- [19ICML] Insertion Transformer: Flexible Sequence Generation via Insertion Operations. [Paper](https://arxiv.org/pdf/1902.03249.pdf) & [Code](https://github.com/pytorch/fairseq/tree/master/examples/nonautoregressive_translation)   
+- [19NeurIPS] Levenshtein Transformer. [Paper](https://arxiv.org/pdf/1905.11006v1.pdf) & [Code](https://github.com/pytorch/fairseq/tree/master/examples/nonautoregressive_translation)  
+- [19EMNLP-IJCNLP] Mask-Predict: Parallel Decoding of Conditional Masked Language Models. [Paper](https://aclanthology.org/D19-1633.pdf) & [Code](https://github.com/facebookresearch/Mask-Predict)  
+- [18EMNLP] Deterministic Non-Autoregressive Neural Sequence Modeling by Iterative Refinement. [Paper](https://aclanthology.org/D18-1149.pdf) & [Code](https://github.com/nyu-dl/dl4mt-nonauto)   
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;Latent variable-based methods
-- [18ICLR] NON-AUTOREGRESSIVE NEURAL MACHINE TRANSLATION. [Paper](https://arxiv.org/pdf/1711.02281.pdf) & [Code](https://github.com/salesforce/nonauto-nmt)
-- [19EMNLP-IJCNLP] FlowSeq: Non-Autoregressive Conditional Sequence Generation with Generative Flow. [Paper](https://arxiv.org/pdf/1909.02480v1.pdf) & [Code](https://github.com/XuezheMax/flowseq)
-- [19NeurIPS] Fast Structured Decoding for Sequence Models. [Paper](https://arxiv.org/pdf/1910.11555.pdf) 
-- [19ArXiv] Non-autoregressive Transformer by Position Learning. [Paper](https://arxiv.org/pdf/1911.10677.pdf)  
-- [19ACL] Syntactically Supervised Transformers for Faster Neural Machine Translation. [Paper](https://aclanthology.org/P19-1122.pdf) & [Code](https://github.com/dojoteef/synst)
-- [20AAAI] Latent-Variable Non-Autoregressive Neural Machine Translation with Deterministic Inference using a Delta Posterior. [Paper](https://arxiv.org/pdf/1908.07181v1.pdf) & [Code](https://github.com/zomux/lanmt)   
-- [20EMNLP] Non-Autoregressive Machine Translation with Latent Alignments. [Paper](https://aclanthology.org/2020.emnlp-main.83.pdf)  
-- [20ArXiv] Incorporating a Local Translation Mechanism into Non-autoregressive Translation. [Paper](https://arxiv.org/pdf/2011.06132.pdf) & [Code](https://github.com/shawnkx/NAT-with-Local-AT)
+- [23AAAI] RenewNAT: Renewing Potential Translation for Non-Autoregressive Transformer. [Paper](https://arxiv.org/pdf/2303.07665.pdf)&[Code](https://github.com/AllForward/RenewNAT)
+- [22EMNLP] Assessing Non-autoregressive Alignment in Neural Machine Translation via Word Reordering. [Paper](https://aclanthology.org/2022.findings-emnlp.172.pdf)
 - [21EMNLP] AligNART: Non-autoregressive Neural Machine Translation by Jointly Learning to Estimate Alignment and Translate. [Paper](https://aclanthology.org/2021.emnlp-main.1.pdf)  
 - [21EACL] Enriching Non-Autoregressive Transformer with Syntactic and Semantic Structures for Neural Machine Translation. [Paper](https://aclanthology.org/2021.eacl-main.105.pdf)   
 - [21AAAI] Guiding Non-Autoregressive Neural Machine Translation Decoding with Reordering Information. [Paper](https://arxiv.org/pdf/1911.02215.pdf) & [Code](https://github.com/ranqiu92/ReorderNAT)  
 - [21NAACL-HLT] Non-Autoregressive Translation by Learning Target Categorical Codes. [Paper](https://aclanthology.org/2021.naacl-main.458.pdf) & [Code](https://github.com/baoy-nlp/CNAT)  
-- [21ACL-IJCNLP Findinds] Fully Non-autoregressive Neural Machine Translation:Tricks of the Trade. [Paper](https://aclanthology.org/2021.findings-acl.11.pdf) & [Code](https://github.com/pytorch/fairseq/tree/main/examples/nonautoregressive_translation)  
-- [22EMNLP] Assessing Non-autoregressive Alignment in Neural Machine Translation via Word Reordering. [Paper](https://aclanthology.org/2022.findings-emnlp.172.pdf)
-- [23AAAI] RenewNAT: Renewing Potential Translation for Non-Autoregressive Transformer. [Paper](https://arxiv.org/pdf/2303.07665.pdf)&[Code](https://github.com/AllForward/RenewNAT)
-
-### &nbsp;&nbsp;&nbsp;&nbsp;Other enhancements-based mothods
-- [19AAAI] Non-Autoregressive Neural Machine Translation with Enhanced Decoder Input. [Paper](https://arxiv.org/pdf/1812.09664.pdf)  
-- [19AAAI] Non-Autoregressive Machine Translation with Auxiliary Regularization. [Paper](https://arxiv.org/pdf/1902.10245.pdf)   
-- [20COLING] Context-Aware Cross-Attention for Non-Autoregressive Translation. [Paper](https://aclanthology.org/2020.coling-main.389.pdf)  
-- [21ArXiv] LAVA NAT: A Non-Autoregressive Translation Model with Look-Around Decoding and Vocabulary Attention. [Paper](https://arxiv.org/pdf/2002.03084v1.pdf)
-- [21AAAI] Non-Autoregressive Translation with Layer-Wise Prediction and Deep Supervision. [Paper](https://arxiv.org/abs/2110.07515) & [Code](https://github.com/chenyangh/DSLP)
-- [22ArXiv] Non-autoregressive Translation with Dependency-Aware Decoder. [Paper](https://arxiv.org/pdf/2203.16266.pdf) & [Code](https://github.com/zja-nlp/NAT_with_DAD)
-- [22ICML] Directed Acyclic Transformer for Non-Autoregressive Machine Translation. [Paper](https://arxiv.org/pdf/2205.07459.pdf)
-- [22EMNLP findings] Viterbi Decoding of Directed Acyclic Transformer for Non-Autoregressive Machine Translation. [Paper](https://arxiv.org/pdf/2210.05193.pdf) 
-- [23ICLR] FUZZY ALIGNMENTS IN DIRECTED ACYCLIC GRAPH FOR NON-AUTOREGRESSIVE MACHINE TRANSLATION. [Paper](https://openreview.net/pdf?id=LSz-gQyd0zE) 
+- [21ACL-IJCNLP Findinds] Fully Non-autoregressive Neural Machine Translation:Tricks of the Trade. [Paper](https://aclanthology.org/2021.findings-acl.11.pdf) & [Code](https://github.com/pytorch/fairseq/tree/main/examples/nonautoregressive_translation) 
+- [20AAAI] Latent-Variable Non-Autoregressive Neural Machine Translation with Deterministic Inference using a Delta Posterior. [Paper](https://arxiv.org/pdf/1908.07181v1.pdf) & [Code](https://github.com/zomux/lanmt)   
+- [20EMNLP] Non-Autoregressive Machine Translation with Latent Alignments. [Paper](https://aclanthology.org/2020.emnlp-main.83.pdf)  
+- [20ArXiv] Incorporating a Local Translation Mechanism into Non-autoregressive Translation. [Paper](https://arxiv.org/pdf/2011.06132.pdf) & [Code](https://github.com/shawnkx/NAT-with-Local-AT)
+- [19EMNLP-IJCNLP] FlowSeq: Non-Autoregressive Conditional Sequence Generation with Generative Flow. [Paper](https://arxiv.org/pdf/1909.02480v1.pdf) & [Code](https://github.com/XuezheMax/flowseq)
+- [19NeurIPS] Fast Structured Decoding for Sequence Models. [Paper](https://arxiv.org/pdf/1910.11555.pdf) 
+- [19ArXiv] Non-autoregressive Transformer by Position Learning. [Paper](https://arxiv.org/pdf/1911.10677.pdf)  
+- [19ACL] Syntactically Supervised Transformers for Faster Neural Machine Translation. [Paper](https://aclanthology.org/P19-1122.pdf) & [Code](https://github.com/dojoteef/synst)
+- [18ICLR] NON-AUTOREGRESSIVE NEURAL MACHINE TRANSLATION. [Paper](https://arxiv.org/pdf/1711.02281.pdf) & [Code](https://github.com/salesforce/nonauto-nmt)
+- 
+### &nbsp;&nbsp;&nbsp;&nbsp;Enhancements-based mothods
+- [23ICLR] FUZZY ALIGNMENTS IN DIRECTED ACYCLIC GRAPH FOR NON-AUTOREGRESSIVE MACHINE TRANSLATION. [Paper](https://openreview.net/pdf?id=LSz-gQyd0zE)
 - [22EMNLP] Candidate Soups: Fusing Candidate Results Improves Translation Quality for Non-Autoregressive Translation. [Paper](https://aclanthology.org/2022.emnlp-main.318.pdf)
+- [22EMNLP findings] Viterbi Decoding of Directed Acyclic Transformer for Non-Autoregressive Machine Translation. [Paper](https://arxiv.org/pdf/2210.05193.pdf) 
+- [22ICML] Directed Acyclic Transformer for Non-Autoregressive Machine Translation. [Paper](https://arxiv.org/pdf/2205.07459.pdf)
+- [22ArXiv] Non-autoregressive Translation with Dependency-Aware Decoder. [Paper](https://arxiv.org/pdf/2203.16266.pdf) & [Code](https://github.com/zja-nlp/NAT_with_DAD)
+- [21ArXiv] LAVA NAT: A Non-Autoregressive Translation Model with Look-Around Decoding and Vocabulary Attention. [Paper](https://arxiv.org/pdf/2002.03084v1.pdf)
+- [21AAAI] Non-Autoregressive Translation with Layer-Wise Prediction and Deep Supervision. [Paper](https://arxiv.org/abs/2110.07515) & [Code](https://github.com/chenyangh/DSLP)  
+- [20COLING] Context-Aware Cross-Attention for Non-Autoregressive Translation. [Paper](https://aclanthology.org/2020.coling-main.389.pdf)  
+- [19AAAI] Non-Autoregressive Neural Machine Translation with Enhanced Decoder Input. [Paper](https://arxiv.org/pdf/1812.09664.pdf)  
+- [19AAAI] Non-Autoregressive Machine Translation with Auxiliary Regularization. [Paper](https://arxiv.org/pdf/1902.10245.pdf) 
 
-
-### Criterion
-- [06ICML] Connectionist Temporal Classification: Labelling Unsegmented Sequence Data with Recurrent Neural Networks. [Paper](https://www.cs.toronto.edu/~graves/icml_2006.pdf) & [Code](https://github.com/parlance/ctcdecode)  
-- [18EMNLP] End-to-End Non-Autoregressive Neural Machine Translation with Connectionist Temporal Classification. [Paper](https://aclanthology.org/D18-1336.pdf)  
-- [19ACL] Retrieving Sequential Information for Non-Autoregressive Neural Machine Translation. [Paper](https://aclanthology.org/P19-1288.pdf) & [Code](https://github.com/ictnlp/RSI-NAT)  
-- [20AAAI] Minimizing the Bag-of-Ngrams Difference for Non-Autoregressive Neural Machine Translation. [Paper](https://arxiv.org/pdf/1911.09320.pdf) & [Code](https://github.com/ictnlp/BoN-NAT)  
-- [20ICML] Aligned Cross Entropy for Non-Autoregressive Machine Translation. [Paper](https://arxiv.org/pdf/2004.01655.pdf) & [Code](https://github.com/m3yrin/aligned-cross-entropy)  
-- [21ICML] Order-Agnostic Cross Entropy for Non-Autoregressive Machine Translation. [Paper](https://arxiv.org/pdf/2106.05093.pdf) & [Code](https://github.com/tencent-ailab/ICML21_OAXE)
+### &nbsp;&nbsp;&nbsp;&nbsp;Criterion
 - [22ICML] On the Learning of Non-Autoregressive Transformers. [Paper](https://arxiv.org/pdf/2206.05975.pdf)
 - [22EMNLP] Multi-Granularity Optimization for Non-Autoregressive Translation. [Paper](https://arxiv.org/pdf/2210.11017.pdf)
 - [22COLNG] ngram-OAXE: Phrase-Based Order-Agnostic Cross Entropy for Non-Autoregressive Machine Translation. [Paper](https://arxiv.org/pdf/2210.03999.pdf) & [Code]( https://github.com/tencent-ailab/machine-translation/COLING22_ngram-OAXE/)
 - [22NeurIPS] Non-Monotonic Latent Alignments for CTC-Based Non-Autoregressive Machine Translation. [Paper](https://arxiv.org/pdf/2210.03953.pdf) & 
 [Code](https://github.com/ictnlp/NMLA-NAT)
 - [22NAACL] A Study of Syntactic Multi-Modality in Non-Autoregressive Machine Translation. [Paper](https://arxiv.org/pdf/2207.04206.pdf)
+- [21ICML] Order-Agnostic Cross Entropy for Non-Autoregressive Machine Translation. [Paper](https://arxiv.org/pdf/2106.05093.pdf) & [Code](https://github.com/tencent-ailab/ICML21_OAXE)
+- [20ICML] Aligned Cross Entropy for Non-Autoregressive Machine Translation. [Paper](https://arxiv.org/pdf/2004.01655.pdf) & [Code](https://github.com/m3yrin/aligned-cross-entropy)  
+(https://github.com/ictnlp/RSI-NAT)  
+- [20AAAI] Minimizing the Bag-of-Ngrams Difference for Non-Autoregressive Neural Machine Translation. [Paper](https://arxiv.org/pdf/1911.09320.pdf) & [Code](https://github.com/ictnlp/BoN-NAT)  
+- [18EMNLP] End-to-End Non-Autoregressive Neural Machine Translation with Connectionist Temporal Classification. [Paper](https://aclanthology.org/D18-1336.pdf)  
+- [19ACL] Retrieving Sequential Information for Non-Autoregressive Neural Machine Translation. [Paper](https://aclanthology.org/P19-1288.pdf) & [Code]
+- [06ICML] Connectionist Temporal Classification: Labelling Unsegmented Sequence Data with Recurrent Neural Networks. [Paper](https://www.cs.toronto.edu/~graves/icml_2006.pdf) & [Code](https://github.com/parlance/ctcdecode)  
 
-### Decoding
-- [18EMNLP] Semi-Autoregressive Neural Machine Translation. [Paper](https://aclanthology.org/D18-1044.pdf)   
-- [20ACL] Learning to Recover from Multi-Modality Errors for Non-Autoregressive Neural Machine Translation. [Paper](https://aclanthology.org/2020.acl-main.277.pdf) & [Code](https://github.com/ranqiu92/RecoverSAT) 
-- [20COLING] Train Once, and Decode As You Like. [Paper](https://aclanthology.org/2020.coling-main.25.pdf)
+### &nbsp;&nbsp;&nbsp;&nbsp;Decoding
+- [22EMNLP] Candidate Soups: Fusing Candidate Results Improves Translation Quality for Non-Autoregressive Translation. [Paper](https://aclanthology.org/2022.emnlp-main.318.pdf) & [Code](https://github.com/boom-R123/Candidate_Soups)
+- [UnderReview] HYBRID-REGRESSIVE NEURAL MACHINE TRANSLATION. [Paper](https://openreview.net/pdf?id=2NQ8wlmU9a_)
 - [22EAMT] Diformer: Directional Transformer for Neural Machine Translation. [Paper](https://arxiv.org/pdf/2112.11632v2.pdf)
 - [22ArXiv] Lossless Speedup of Autoregressive Translation with Generalized Aggressive Decoding. [Paper](https://arxiv.org/pdf/2203.16487v2.pdf) & [Code](https://github.com/hemingkx/Generalized-Aggressive-Decoding)
-- [UnderReview] HYBRID-REGRESSIVE NEURAL MACHINE TRANSLATION. [Paper](https://openreview.net/pdf?id=2NQ8wlmU9a_)
-- [22EMNLP] Candidate Soups: Fusing Candidate Results Improves Translation Quality for Non-Autoregressive Translation. [Paper](https://aclanthology.org/2022.emnlp-main.318.pdf) & [Code](https://github.com/boom-R123/Candidate_Soups)
+- [20ACL] Learning to Recover from Multi-Modality Errors for Non-Autoregressive Neural Machine Translation. [Paper](https://aclanthology.org/2020.acl-main.277.pdf) & [Code](https://github.com/ranqiu92/RecoverSAT) 
+- [20COLING] Train Once, and Decode As You Like. [Paper](https://aclanthology.org/2020.coling-main.25.pdf)
+- [18EMNLP] Semi-Autoregressive Neural Machine Translation. [Paper](https://aclanthology.org/D18-1044.pdf)   
 
-### Benefiting from Pre-trained Modoels
+### &nbsp;&nbsp;&nbsp;&nbsp;Benefiting from AR Pre-trained Modoels
+- [22EMNLP] Helping the Weak Makes You Strong: Simple Multi-Task Learning Improves Non-Autoregressive Translators. [Paper](https://arxiv.org/pdf/2211.06075.pdf) & [Code](https://arxiv.org/pdf/2211.06075.pdf)
+- [21NAACL-HLT] Multi-Task Learning with Shared Encoder for Non-Autoregressive Machine Translation. [Paper](https://aclanthology.org/2021.naacl-main.313.pdf) & [Code](https://github.com/yongchanghao/multi-task-nat)  
+- [21IJCAI] Task-Level Curriculum Learning for Non-Autoregressive Neural Machine Translation. [Paper](https://www.ijcai.org/Proceedings/2020/0534.pdf)  
+- [20AutoSimtrans] Improving Autoregressive NMT with Non-Autoregressive Model. [Paper](https://aclanthology.org/2020.autosimtrans-1.4.pdf) 
+- [20ACL] ENGINE: Energy-Based Inference Networks for Non-Autoregressive Machine Translation. [Paper](https://aclanthology.org/2020.acl-main.251.pdf) & [Code]( https://github.com/lifu-tu/ENGINE)
+- [20ICML] An EM Approach to Non-autoregressive Conditional Sequence Generation. [Paper](https://arxiv.org/pdf/2006.16378.pdf) & [Code](https://github.com/Edward-Sun/NAT-EM)  
+- [20AAAI] Fine-Tuning by Curriculum Learning for Non-Autoregressive Neural Machine Translation. [Paper](http://staff.ustc.edu.cn/~linlixu/papers/aaai20a.pdf) & [Code](https://github.com/lemmonation/fcl-nat)  
 - [19ACL] Imitation Learning for Non-Autoregressive Neural Machine Translation. [Paper](https://aclanthology.org/P19-1125.pdf)  
 - [19EMNLP-IJCNLP] Hint-Based Training for Non-Autoregressive Machine Translation. [Paper](https://aclanthology.org/D19-1573.pdf) & [Code](https://github.com/zhuohan123/hint-nart)  
-- [20AAAI] Fine-Tuning by Curriculum Learning for Non-Autoregressive Neural Machine Translation. [Paper](http://staff.ustc.edu.cn/~linlixu/papers/aaai20a.pdf) & [Code](https://github.com/lemmonation/fcl-nat)  
-- [20ICML] An EM Approach to Non-autoregressive Conditional Sequence Generation. [Paper](https://arxiv.org/pdf/2006.16378.pdf) & [Code](https://github.com/Edward-Sun/NAT-EM)  
-- [20ACL] ENGINE: Energy-Based Inference Networks for Non-Autoregressive Machine Translation. [Paper](https://aclanthology.org/2020.acl-main.251.pdf) & [Code]( https://github.com/lifu-tu/ENGINE)
-- [20AutoSimtrans] Improving Autoregressive NMT with Non-Autoregressive Model. [Paper](https://aclanthology.org/2020.autosimtrans-1.4.pdf)  
-- [21IJCAI] Task-Level Curriculum Learning for Non-Autoregressive Neural Machine Translation. [Paper](https://www.ijcai.org/Proceedings/2020/0534.pdf)  
-- [21NAACL-HLT] Multi-Task Learning with Shared Encoder for Non-Autoregressive Machine Translation. [Paper](https://aclanthology.org/2021.naacl-main.313.pdf) & [Code](https://github.com/yongchanghao/multi-task-nat)  
-- [20NeurIPS] Incorporating bert into parallel sequence decoding with adapters. [Paper](https://arxiv.org/pdf/2010.06138v1.pdf) & [Code](https://github.com/lemmonation/abnet)
-- [21EACL] Non-autoregressive text generation with pre-trained language models. [Paper](https://aclanthology.org/2021.eacl-main.18.pdf) & [Code](https://github.com/yxuansu/NAG-BERT)  
-- [22ACL] Universal conditional masked language pre-training for neural machine translation. [Paper](https://arxiv.org/pdf/2203.09210v1.pdf) & [Code](https://github.com/huawei-noah)
-- [22EMNLP] Helping the Weak Makes You Strong: Simple Multi-Task Learning Improves Non-Autoregressive Translators. [Paper](https://arxiv.org/pdf/2211.06075.pdf) & [Code](https://arxiv.org/pdf/2211.06075.pdf)
-- [22EMNLP] XLM-D: Decorate Cross-lingual Pre-training Model as Non-Autoregressive Neural Machine Translation. [Paper](https://aclanthology.org/2022.emnlp-main.466.pdf)
-- [22EMNLP] JANUS: Joint Autoregressive and Non-autoregressive Training with Auxiliary Loss for Sequence Generation. [Paper](https://aclanthology.org/2022.emnlp-main.550/) & [Code](https://github.com/dropreg/JANUS)
 
-### Others
+### &nbsp;&nbsp;&nbsp;&nbsp;Evaluations and explorations
 - [22ICLR] NON-AUTOREGRESSIVE MODELS ARE BETTER MULTILINGUAL TRANSLATORS. [Paper](https://openreview.net/pdf?id=5HvpvYd68b)  
 - [21NeurIPS] Duplex Sequence-to-Sequence Learning for Reversible Machine Translation. [Paper](https://arxiv.org/pdf/2105.03458.pdf) & [Code](https://github.com/zhengzx-nlp/REDER)  
 - [22NAACL] Non-Autoregressive Machine Translation: It’s Not as Fast as it Seems. [Paper](https://openreview.net/pdf?id=1jg0-AcYVo)
 - [22ArXiv] Non-Autoregressive Neural Machine Translation: A Call for Clarity. [Paper](https://arxiv.org/pdf/2205.10577.pdf)
 - [UnderReview] ATTENTIVE MLP FOR NON-AUTOREGRESSIVE GENERATION. [Paper](https://openreview.net/pdf?id=hA7XDfCD1y2)
 
-### Results
-We show the performance in translation on several datesets [here](https://github.com/LitterBrother-Xiao/Overview-of-Non-autoregressive-Applications/blob/main/NMT-Result.md).
-
 ## Speech related (Text to speech, speech translation, automatic speech recognition)
-### Papers
 ### Automatic speech recognition(ASR)
 - [22ICASSP] Improving non-autoregressive end-to-end speech recognition with pre-trained acoustic and language models. [Paper](https://arxiv.org/pdf/2201.10103v2.pdf)
 - [22ICASSP] Non-Autoregressive ASR with Self-Conditioned Folded Encoders. [Paper](https://arxiv.org/pdf/2202.08474v1.pdf)
@@ -204,6 +210,7 @@ We show the performance in translation on several datesets [here](https://github
 - [21ASRU] Fast-MD: Fast Multi-Decoder End-to-End Speech Translation with Non-Autoregressive Hidden Intermediates. [Paper](https://arxiv.org/pdf/2109.12804v1.pdf)
 - [22ArXiv] A Novel Chinese Dialect TTS Frontend with Non-Autoregressive Neural Machine Translation. [Paper](https://arxiv.org/pdf/2206.04922.pdf)
 - [22ArXiv] TranSpeech: Speech-to-Speech Translation With Bilateral Perturbation. [Paper](https://openreview.net/pdf?id=UVAmFAtC5ye)  
+
 ### Others
 - [22ArXiv] Conditional Deep Hierarchical Variational Autoencoder for Voice Conversion. [Paper](https://arxiv.org/pdf/2112.02796.pdf)
 - [22ICLR] Generating Videos with Dynamics-aware Implicit Generative Adversarial Networks. [Paper](https://arxiv.org/pdf/2202.10571.pdf)
@@ -215,23 +222,15 @@ We show the performance in translation on several datesets [here](https://github
 - [UnderReview] REPHRASETTS: DYNAMIC LENGTH TEXT BASED SPEECH INSERTION WITH SPEAKER STYLE TRANSFER. [Paper](https://openreview.net/pdf?id=8zsK9lbna9L)
 
 
-## Other tasks (Text Summarization; Dialogue and Intent Detection; Grammatical Error Correction; Text Style Transfer; Parsing; etc.)
-### Papers
-### General-Purpose methods
-- [22ArXiv] An Imitation Learning Curriculum for Text Editing with Non-Autoregressive Models. [Paper](https://arxiv.org/pdf/2203.09486.pdf)
-- [21ACL-IJCNLP] POS-Constrained Parallel Decoding for Non-autoregressive Generation. [Paper](https://aclanthology.org/2021.acl-long.467.pdf) & [Code](https://github.com/yangkexin/pospd)
-- [21ArXiv] Integrated Training for Sequence-to-Sequence Models Using Non-Autoregressive Transformer. [Paper](https://arxiv.org/pdf/2109.12950v1.pdf)
-- [21ArXiv] Improving Non-autoregressive Generation with Mixup Training. [Paper](https://arxiv.org/pdf/2110.11115v1.pdf) & [Code](https://github.com/kongds/mist)
-- [21EACL] Non-Autoregressive Text Generation with Pre-trained Language Models. [Paper](https://arxiv.org/pdf/2102.08220v1.pdf) & [Code](https://github.com/yxuansu/NAG-BERT)
-- [21ICML] BANG: Bridging Autoregressive and Non-autoregressive Generation with Large Scale Pretraining. [Paper](https://arxiv.org/pdf/2012.15525v3.pdf) & [Code](https://github.com/microsoft/BANG)
-- [22ArXiv] EdiT5: Semi-Autoregressive Text-Editing with T5 Warm-Start. [Paper](https://arxiv.org/pdf/2205.12209.pdf)
-- [22ArXiv] A Self-Paced Mixed Distillation Method for Non-Autoregressive Generation. [Paper](https://arxiv.org/pdf/2205.11162.pdf)
-- [22EMNLP] ELMER: A Non-Autoregressive Pre-trained Language Model for Efficient and Effective Text Generation. [Paper](https://arxiv.org/pdf/2210.13304.pdf) &   [Code](https://github.com/RUCAIBox/ELMER)
 
+## Other tasks (Text Summarization; Dialogue and Intent Detection; Grammatical Error Correction; Text Style Transfer; Parsing; etc.)
 ### Summarization
 - [22ACL] Learning Non-Autoregressive Models from Search for Unsupervised Sentence Summarization. [Paper](https://openreview.net/pdf?id=UNzc8gReN7m)
 - [22Arxiv] A Character-Level Length-Control Algorithm for Non-Autoregressive Sentence Summarization. [Paper](https://arxiv.org/pdf/2205.14522.pdf)
-- 
+- [22ArXiv] An Imitation Learning Curriculum for Text Editing with Non-Autoregressive Models. [Paper](https://arxiv.org/pdf/2203.09486.pdf)
+- [21ACL-IJCNLP] POS-Constrained Parallel Decoding for Non-autoregressive Generation. [Paper](https://aclanthology.org/2021.acl-long.467.pdf) & [Code](https://github.com/yangkexin/pospd)
+- [21ArXiv] Integrated Training for Sequence-to-Sequence Models Using Non-Autoregressive Transformer. [Paper](https://arxiv.org/pdf/2109.12950v1.pdf)
+
 ### Dialogue
 - [21EMNLP] Thinking Clearly, Talking Fast: Concept-Guided Non-Autoregressive Generation for Open-Domain Dialogue Systems. [Paper](https://arxiv.org/pdf/2109.04084v1.pdf) & [Code](https://github.com/rowitzou/cg-nar)
 - [20ArXiv] Non-Autoregressive Neural Dialogue Generation. [Paper](https://arxiv.org/pdf/2002.04250v2.pdf)
@@ -311,3 +310,9 @@ We show the performance in translation on several datesets [here](https://github
 - [22ARxiv] CLIP-Diffusion-LM: Apply Diffusion Model on Image Captioning. [Paper](https://arxiv.org/pdf/2210.04559.pdf)
 - [22ArXiv] WaveFit: An Iterative and Non-autoregressive Neural Vocoder based on Fixed-Point Iteration. [Paper](https://arxiv.org/pdf/2210.01029.pdf)
 - [22ArXiv] Diffsound: Discrete Diffusion Model for Text-to-sound Generation. [Paper](https://arxiv.org/pdf/2207.09983.pdf)
+
+
+## Results
+We show the performance in translation on several datesets [here](https://github.com/LitterBrother-Xiao/Overview-of-Non-autoregressive-Applications/blob/main/NMT-Result.md).
+
+
