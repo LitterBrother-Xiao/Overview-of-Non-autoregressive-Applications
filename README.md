@@ -9,7 +9,8 @@ A survey on non-autoregressive neural machine translation including a brief revi
 
 **************************** Updates ****************************  
 - 2023/4/3: Reorganize the category and add two papers.
-- 2023/6/7: Add more than 10 papers. 
+- 2023/6/7: Add more than ten papers.
+- 2023/6/26: Add two papers.
 &nbsp;
 ## NAR with large Pre-trained Language Models
 - [23ArXiv] Directed Acyclic Transformer Pre-training for High-quality Non-autoregressive Text Generation. [Paper](https://arxiv.org/pdf/2304.11791.pdf)
@@ -76,6 +77,7 @@ A survey on non-autoregressive neural machine translation including a brief revi
 - [18EMNLP] Deterministic Non-Autoregressive Neural Sequence Modeling by Iterative Refinement. [Paper](https://aclanthology.org/D18-1149.pdf) & [Code](https://github.com/nyu-dl/dl4mt-nonauto)   
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;Latent variable-based methods
+- [23ArXiv]  Improving Non-autoregressive Translation Quality with Pretrained Language Model, Embedding Distillation and Upsampling Strategy for CTC. [Paper](https://arxiv.org/pdf/2306.06345.pdf).
 - [23ArXiv] Shared Latent Space by Both Languages in Non-Autoregressive Neural Machine Translation. [Paper](https://arxiv.org/pdf/2305.03511.pdf)
 - [23AAAI] RenewNAT: Renewing Potential Translation for Non-Autoregressive Transformer. [Paper](https://arxiv.org/pdf/2303.07665.pdf)&[Code](https://github.com/AllForward/RenewNAT)
 - [22EMNLP] Assessing Non-autoregressive Alignment in Neural Machine Translation via Word Reordering. [Paper](https://aclanthology.org/2022.findings-emnlp.172.pdf)
