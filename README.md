@@ -11,6 +11,7 @@ A survey on non-autoregressive neural machine translation including a brief revi
 - 2023/4/3: Reorganize the category and add two papers.
 - 2023/6/7: Add more than ten papers.
 - 2023/6/26: Add two papers.
+- 2023/7/25: Add four papers.
 &nbsp;
 ## NAR with large Pre-trained Language Models
 - [23ArXiv] Directed Acyclic Transformer Pre-training for High-quality Non-autoregressive Text Generation. [Paper](https://arxiv.org/pdf/2304.11791.pdf)
@@ -218,6 +219,8 @@ A survey on non-autoregressive neural machine translation including a brief revi
 - [23ICASSP] Spoofed training data for speech spoofing countermeasure can be efficiently created using neural vocoders. [Paper](https://arxiv.org/pdf/2210.10570.pdf)
 - [23IALP] MnTTS: An Open-Source Mongolian Text-to-Speech Synthesis Dataset and Accompanied Baseline. [Paper](https://arxiv.org/pdf/2209.10848.pdf)
 - [23InterSpeech] Towards Robust FastSpeech 2 by Modelling Residual Multimodality. [Paper](https://arxiv.org/pdf/2306.01442.pdf)
+- [ISCA] An analysis on the effects of speaker embedding choice in non auto-regressive TTS. [Paper](https://arxiv.org/pdf/2307.09898.pdf)
+- [ArXiv] VampNet: Music Generation via Masked Acoustic Token Modeling. [Paper](https://arxiv.org/pdf/2307.04686.pdf) & [Code]( https://github.com/hugofloresgarcia/vampnet)
 
 ### &nbsp;&nbsp;&nbsp;&nbsp; Speech translation 
 - [21ACL findings] Investigating the Reordering Capability in CTC-based Non-Autoregressive End-to-End Speech Translation. [Paper](https://arxiv.org/pdf/2105.04840v1.pdf) & [Code](https://github.com/voidism/NAR-ST)
@@ -256,10 +259,11 @@ A survey on non-autoregressive neural machine translation including a brief revi
 - [20EMNLP] SlotRefine: A Fast Non-Autoregressive Model for Joint Intent Detection and Slot Filling. [Paper](https://arxiv.org/pdf/2010.02693v2.pdf) & [Code](https://github.com/moore3930/SlotRefine)
 - [20ICLR] Non-Autoregressive Dialog State Tracking. [Paper](https://arxiv.org/pdf/2002.08024v1.pdf) & [Code](https://github.com/henryhungle/NADST)
 
-### &nbsp;&nbsp;&nbsp;&nbsp; Semantic parsing
+### &nbsp;&nbsp;&nbsp;&nbsp; Parsing
 - [21EMNLP Findings] Span Pointer Networks for Non-Autoregressive Task-Oriented Semantic Parsing. [Paper](https://arxiv.org/pdf/2104.07275v3.pdf)
 - [21NAACL-HLT] Non-Autoregressive Semantic Parsing for Compositional Task-Oriented Dialog. [Paper](https://arxiv.org/pdf/2104.04923v1.pdf) & [Code](https://github.com/facebookresearch/pytext)
 - [20ArXiv] Recursive Non-Autoregressive Graph-to-Graph Transformer for Dependency Parsing with Iterative Refinement. [Paper](https://arxiv.org/pdf/2003.13118v2.pdf) & [Code](https://github.com/idiap/g2g-transformer)
+- [23ACL Findings] A Semi-Autoregressive Graph Generative Model for Dependency Graph Parsing. [Paper](https://arxiv.org/pdf/2306.12018.pdf)
 
 ### &nbsp;&nbsp;&nbsp;&nbsp; Grammatical Error Correction
 - [21ACL-IJCNLP] Tail-to-Tail Non-Autoregressive Sequence Prediction for Chinese Grammatical Error Correction. [Paper](https://arxiv.org/pdf/2106.01609v3.pdf) & [Code](https://github.com/lipiji/TtT)
@@ -275,6 +279,7 @@ A survey on non-autoregressive neural machine translation including a brief revi
 - [22ArXiv] Gradient-Based Constrained Sampling from Language Models. [Paper](https://arxiv.org/pdf/2205.12558.pdf) & [Code](https://github.com/Sachin19/mucoco/tree/sampling)
 - [22ArXiv] Diffusion-LM Improves Controllable Text Generation. [Paper](https://arxiv.org/pdf/2205.14217.pdf) & [Code](https://github.com/XiangLi1999/Diffusion-LM)
 - [22ArXiv] AutoTemplate: A Simple Recipe for Lexically Constrained Text Generation. [Paper](https://arxiv.org/pdf/2211.08387.pdf)
+- [23IJCAI] KEST: Kernel Distance Based Efficient Self-Training for Improving Controllable Text Generation. [Paper](https://arxiv.org/pdf/2306.10414.pdf)
 
 ### &nbsp;&nbsp;&nbsp;&nbsp; Question Answering
 - [22ArXiv] NAPG: Non-Autoregressive Program Generation for Hybrid Tabular-Textual Question Answering. [Paper](https://arxiv.org/pdf/2211.03462.pdf)
@@ -297,6 +302,7 @@ A survey on non-autoregressive neural machine translation including a brief revi
 - [22ArXiv] Acoustic-aware Non-autoregressive Spell Correction with Mask Sample Decoding. [Paper](https://arxiv.org/pdf/2210.08665.pdf)
 - [22EMNLP] Composing Ci with Reinforced Non-autoregressive Text Generation. [Paper](https://aclanthology.org/2022.emnlp-main.486/)
 - [23ArXiv] Non-Autoregressive Math Word Problem Solver with Unified Tree Structure. [Paper](https://arxiv.org/pdf/2305.04556.pdf)
+- [23ArXiv] RobustL2S: Speaker-Specific Lip-to-Speech Synthesis exploiting Self-Supervised Representations. [Paper](https://arxiv.org/pdf/2307.01233.pdf)
 
 ## Computer Vision
 - [UnderReview] Semi-Autoregressive Energy Flows: Towards Determinant-Free Training of Normalizing Flows. [Paper](https://openreview.net/forum?id=GBU1mm8_WkV)
