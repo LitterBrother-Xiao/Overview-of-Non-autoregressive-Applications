@@ -13,13 +13,14 @@ A survey on non-autoregressive neural machine translation including a brief revi
 - 2023/6/26: Add two papers.
 - 2023/7/25: Add four papers.
 - 2023/10/15: Add about 20 papers.
+- 2024/5/28: Add the category *NAR with Large Language Models*, and add more than 50 papers.  
 &nbsp;
 
 ## NAR with Large Language Models
 - [24ArXiv] A Comprehensive Survey of Accelerated Generation Techniques in Large Language Models. [Paper](https://arxiv.org/pdf/2405.13019) 
 - [24NAacl] DynaMo: Accelerating Language Model Inference with Dynamic Multi-Token Sampling. [Paper](https://arxiv.org/pdf/2405.00888) 
 - [24ArXiv] Ouroboros: Speculative Decoding with Large Model Enhanced Drafting. [Paper](https://arxiv.org/pdf/2402.13720)
-
+- [24ICLR] Are BERT family good instruction followers? a study on their potential and limitations. [Paper](https://openreview.net/pdf?id=x8VNtpCu1I)
 
 ## NAR with Pre-trained Language Models
 - [24ArXiV] UT5: Pretraining Non autoregressive T5 with unrolled denoising. [Paper](https://arxiv.org/pdf/2311.08552)
@@ -111,6 +112,7 @@ A survey on non-autoregressive neural machine translation including a brief revi
 
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;Enhancements-based mothods
+- [23NeurIPS] Non-autoregressive Machine Translation with Probabilistic Context-free Grammar. [Paper](https://arxiv.org/pdf/2311.07941)
 - [23ICLR] FUZZY ALIGNMENTS IN DIRECTED ACYCLIC GRAPH FOR NON-AUTOREGRESSIVE MACHINE TRANSLATION. [Paper](https://openreview.net/pdf?id=LSz-gQyd0zE)
 - [22EMNLP] Candidate Soups: Fusing Candidate Results Improves Translation Quality for Non-Autoregressive Translation. [Paper](https://aclanthology.org/2022.emnlp-main.318.pdf)
 - [22EMNLP findings] Viterbi Decoding of Directed Acyclic Transformer for Non-Autoregressive Machine Translation. [Paper](https://arxiv.org/pdf/2210.05193.pdf) 
