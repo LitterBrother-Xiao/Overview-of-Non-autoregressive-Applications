@@ -22,6 +22,7 @@ A survey on non-autoregressive neural machine translation including a brief revi
 
 
 ## NAR with Pre-trained Language Models
+- [24ArXiV] UT5: Pretraining Non autoregressive T5 with unrolled denoising. [Paper](https://arxiv.org/pdf/2311.08552)
 - [23ArXiv] Directed Acyclic Transformer Pre-training for High-quality Non-autoregressive Text Generation. [Paper](https://arxiv.org/pdf/2304.11791.pdf)
 - [23ArXiv] Text Generation with Diffusion Language Models: A Pre-training Approach with Continuous Paragraph Denoise. [Paper](https://arxiv.org/pdf/2212.11685.pdf) & [Code](https://github.com/microsoft/ProphetNet/tree/master/GENIE)
 - [22EMNLP] ELMER: A Non-Autoregressive Pre-trained Language Model for Efficient and Effective Text Generation. [Paper](https://arxiv.org/pdf/2210.13304.pdf) &   [Code](https://github.com/RUCAIBox/ELMER)
@@ -245,6 +246,9 @@ A survey on non-autoregressive neural machine translation including a brief revi
 - [23ICASSP] Matcha-TTS: A fast TTS architecture with conditional flow matching. [Paper](https://arxiv.org/pdf/2309.03199.pdf)
 - [24ArXiv] An Empirical Study of Speech Language Models for Prompt-Conditioned Speech Synthesis. [Paper](https://arxiv.org/pdf/2403.12402)
 - [24ArXiv] Speech-driven Personalized Gesture Synthetics: Harnessing Automatic Fuzzy Feature Inference. [Paper](https://arxiv.org/pdf/2403.10805)
+- [24ArXiv] SpeechGPT-Gen: Scaling Chain-of-Information Speech Generation. [Paper](https://arxiv.org/pdf/2401.13527) 
+- [24ICCASP] Multilingual and Fully Non-Autoregressive ASR with Large Language Model Fusion: A Comprehensive Study. [Paper](https://arxiv.org/pdf/2401.12789)
+- [24ArXiv] Utilizing Neural Transducers for Two-Stage Text-to-Speech via Semantic Token Prediction. [Paper](https://arxiv.org/pdf/2401.01498) 
 
 ### &nbsp;&nbsp;&nbsp;&nbsp; Speech translation 
 - [21ACL findings] Investigating the Reordering Capability in CTC-based Non-Autoregressive End-to-End Speech Translation. [Paper](https://arxiv.org/pdf/2105.04840v1.pdf) & [Code](https://github.com/voidism/NAR-ST)
@@ -256,6 +260,8 @@ A survey on non-autoregressive neural machine translation including a brief revi
 - [23ACL] CTC-based Non-autoregressive Speech Translation. [Paper](https://arxiv.org/pdf/2305.17358.pdf) & [Code](https://github.com/xuchennlp/S2T)
 - [23NeurIPS] DASpeech:DirectedAcyclicTransformerfor FastandHigh-qualitySpeech-to-SpeechTranslation. [Paper](https://arxiv.org/pdf/2310.07403.pdf) & [Code](https://github.com/ictnlp/DASpeech)
 - [24ArXiv] OWSM-CTC: An Open Encoder-Only Speech Foundation Model for Speech Recognition, Translation, and Language Identification. [Paper](https://arxiv.org/pdf/2402.12654)
+
+  
 ### &nbsp;&nbsp;&nbsp;&nbsp; Others
 - [22ArXiv] Conditional Deep Hierarchical Variational Autoencoder for Voice Conversion. [Paper](https://arxiv.org/pdf/2112.02796.pdf)
 - [22ICLR] Generating Videos with Dynamics-aware Implicit Generative Adversarial Networks. [Paper](https://arxiv.org/pdf/2202.10571.pdf)
@@ -268,6 +274,13 @@ A survey on non-autoregressive neural machine translation including a brief revi
 - [24ArXiv] Diff-IP2D: Diffusion-Based Hand-Object Interaction Prediction on Egocentric Videos. [Paper](https://arxiv.org/pdf/2405.04370) 
 - [24COLING] Select and Reorder: A Novel Approach for Neural Sign Language Production. [Paper](https://arxiv.org/pdf/2404.11532)
 - [24CVPR] Towards Variable and Coordinated Holistic Co-Speech Motion Generation. [Paper](https://arxiv.org/pdf/2404.00368)
+- [24ArXiv] Masked Audio Generation using a Single Non-Autoregressive Transformer. [Paper](https://arxiv.org/pdf/2401.04577) 
+- [24ArXiv] Anfinsen Goes Neural: a Graphical Model for Conditional Antibody Design. [Paper](https://arxiv.org/pdf/2402.05982)
+- [24AAAI] Spot the Error: Non-autoregressive Graphic Layout Generation with Wireframe Locator. [Paper](https://arxiv.org/pdf/2401.16375)
+- [24ArXiv] Distilling Autoregressive Models to Obtain High-Performance Non-Autoregressive Solvers for Vehicle Routing Problems with Faster Inference Speed. [Paper](https://arxiv.org/pdf/2312.12469)
+- [24ICCASP] StemGen: A music generation model that listens. [Paper](https://arxiv.org/pdf/2312.08723)
+- [24ICCASP] SEF-VC: Speaker Embedding Free Zero-Shot Voice Conversion with Cross Attention. [Paper](https://arxiv.org/pdf/2312.08676)
+- [24NeurIPS workshop] Fast non-autoregressive inverse folding with discrete diffusion. [Paper](https://arxiv.org/pdf/2312.02447)
 
 ## Other tasks (Text Summarization; Dialogue and Intent Detection; Grammatical Error Correction; Text Style Transfer; Parsing; etc.)
 ### &nbsp;&nbsp;&nbsp;&nbsp; Summarization
@@ -296,7 +309,8 @@ A survey on non-autoregressive neural machine translation including a brief revi
 - [21WNUT] Character Transformations for Non-Autoregressive GEC Tagging. [Paper](https://arxiv.org/pdf/2111.09280v1.pdf) & [Code](https://github.com/ufal/wnut2021_character_transformations_gec)
 - [22EMNLP] Mask the Correct Tokens: An Embarrassingly Simple Approach for Error Correction. [Paper](https://arxiv.org/pdf/2211.13252.pdf)
 - [23EMNLP] Non-autoregressiveTextEditingwithCopy-awareLatentAlignments. [Paper](https://arxiv.org/pdf/2310.07821.pdf)
-
+- [23ACL] GEC-DePenD: Non-Autoregressive Grammatical Error Correction with Decoupled Permutation and Decoding [Paper](https://arxiv.org/pdf/2311.08191)
+ 
 ### &nbsp;&nbsp;&nbsp;&nbsp; Text Style Transfer
 - [21EMNLP] Exploring Non-Autoregressive Text Style Transfer. [Paper](https://aclanthology.org/2021.emnlp-main.730.pdf) & [Code](https://github.com/sunlight-ym/nar_style_transfer)
 - [21ACL-IJCNLP Findings] NAST: A Non-Autoregressive Generator with Word Alignment for Unsupervised Text Style Transfer. [Paper](https://arxiv.org/pdf/2106.02210v1.pdf) & [Code](https://github.com/thu-coai/NAST)
@@ -333,7 +347,8 @@ A survey on non-autoregressive neural machine translation including a brief revi
 - [23ArXiv] RobustL2S: Speaker-Specific Lip-to-Speech Synthesis exploiting Self-Supervised Representations. [Paper](https://arxiv.org/pdf/2307.01233.pdf)
 - [23ArXiv] VampNet: Music Generation via Masked Acoustic Token Modeling. [Paper](https://arxiv.org/pdf/2307.04686.pdf)
 - [24KDD] Non-autoregressive Generative Models for Reranking Recommendation. [Paper](https://arxiv.org/pdf/2402.06871)
-- [24ArXiv] Anfinsen Goes Neural: a Graphical Model for Conditional Antibody Design. [Paper](https://arxiv.org/pdf/2402.05982)
+- [24EMNLP] INarIG: Iterative Non-autoregressive Instruct Generation Model For Word-Level Auto Completion. [Paper](https://arxiv.org/search/?query=non-autoregressive&searchtype=all&abstracts=show&order=-announced_date_first&size=50&start=100) 
+
 
 ## Computer Vision
 - [24ICCV] Translating Images to Road Network:A Non-Autoregressive Sequence-to-Sequence Approach. [Paper](https://arxiv.org/pdf/2402.08207) 
@@ -348,6 +363,9 @@ A survey on non-autoregressive neural machine translation including a brief revi
 - [22ArXiv] Megapixel Image Generation with Step-Unrolled Denoising Autoencoders. [Paper](https://arxiv.org/pdf/2206.12351.pdf) 
 - [22ArXiv] M6-Fashion: High-Fidelity Multi-modal Image Generation and Editing. [Paper](https://arxiv.org/pdf/2205.11705.pdf)
 - [23MM] Speech-Driven 3D Face Animation with Composite and Regional Facial Movements. [Paper](https://arxiv.org/pdf/2308.05428.pdf)
+- [24ArXiv] Emage: Non-Autoregressive Text-to-Image Generation. [Paper](https://arxiv.org/pdf/2312.14988) & [Code](https://openai.com/blog/dall-e-2-extendingcreativity/)
+- [24CVPR] MaskINT: Video Editing via Interpolative Non-autoregressive Masked Transformers. [Paper](https://arxiv.org/pdf/2312.12468)
+- [24ArXiv] Compression of end-to-end non-autoregressive image-to-speech system for low resourced devices [Paper](https://arxiv.org/pdf/2312.02447)
 
 ## Specially, we present recent progress of difussion models in different tasks, which also adpot non-autoregressive format in each difffusion step.
 ## Difussion Models
