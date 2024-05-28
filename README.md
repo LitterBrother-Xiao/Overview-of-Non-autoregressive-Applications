@@ -18,7 +18,7 @@ A survey on non-autoregressive neural machine translation including a brief revi
 
 ## NAR with Large Language Models
 - [24ArXiv] A Comprehensive Survey of Accelerated Generation Techniques in Large Language Models. [Paper](https://arxiv.org/pdf/2405.13019) 
-- [24NAacl] DynaMo: Accelerating Language Model Inference with Dynamic Multi-Token Sampling. [Paper](https://arxiv.org/pdf/2405.00888) 
+- [24NAACL] DynaMo: Accelerating Language Model Inference with Dynamic Multi-Token Sampling. [Paper](https://arxiv.org/pdf/2405.00888) 
 - [24ArXiv] Ouroboros: Speculative Decoding with Large Model Enhanced Drafting. [Paper](https://arxiv.org/pdf/2402.13720)
 - [24ICLR] Are BERT family good instruction followers? a study on their potential and limitations. [Paper](https://openreview.net/pdf?id=x8VNtpCu1I)
 
