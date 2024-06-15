@@ -44,8 +44,7 @@ A survey on non-autoregressive neural machine translation including a brief revi
 - ACL 2022 [Non-Autoregressive Sequence Generation](https://github.com/NAR-tutorial/acl2022)
 - EMNLP 2023 [Non-Autoregressive Models for Fast Sequence Generation](https://aclanthology.org/2022.emnlp-tutorials.6.pdf)
 ### Papers
-### &nbsp;&nbsp;&nbsp;&nbsp; Knowledge distillation
-- [24ArXiv]  
+### &nbsp;&nbsp;&nbsp;&nbsp; Knowledge distillation 
 - [23AAAI] Selective Knowledge Distillation for Non-Autoregressive Neural Machine Translation. [Paper](https://arxiv.org/pdf/2303.17910.pdf)
 - [22NAACL] One Reference Is Not Enough: Diverse Distillation with Reference Selection for Non-Autoregressive Translation. [Paper](https://arxiv.org/pdf/2205.14333.pdf) & [Code](https://github.com/ictnlp/DDRS-NAT)
 - [22ArXiv] DiMS: Distilling Multiple Steps of Iterative Non-Autoregressive Transformers. [Paper](https://arxiv.org/pdf/2206.02999.pdf) & [Code](https://github.com/layer6ai-labs/DiMS)
