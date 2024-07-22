@@ -8,12 +8,14 @@ NAR models are first proposed for neural machine translation, and then are appli
 A survey on non-autoregressive neural machine translation including a brief review of other various tasks can be found on [here](https://arxiv.org/abs/2204.09269)].
 
 **************************** Updates ****************************  
-- 2023/4/3: Reorganize the category and add two papers.
-- 2023/6/7: Add more than ten papers.
-- 2023/6/26: Add two papers.
-- 2023/7/25: Add four papers.
+- 2024/7/22: Add the category *Simultaneous Translation*, and add several papers.
+- 2024/5/28: Add the category *NAR with Large Language Models*, and add more than 50 papers.
 - 2023/10/15: Add about 20 papers.
-- 2024/5/28: Add the category *NAR with Large Language Models*, and add more than 50 papers.  
+- 2023/7/25: Add four papers.
+- 2023/6/26: Add two papers.
+- 2023/6/7: Add more than ten papers.
+- 2023/4/3: Reorganize the category and add two papers.
+
 &nbsp;
 
 ## NAR with Large Language Models
