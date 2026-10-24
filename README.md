@@ -376,6 +376,7 @@ A survey on non-autoregressive neural machine translation including a brief revi
 
 ## Specially, we present recent progress of difussion models in different tasks, which also adpot non-autoregressive format in each difffusion step.
 ## Difussion Models
+- [26ACL] Empirical Analysis of Decoding Biases in Masked Diffusion Models. [[Paper](https://arxiv.org/pdf/2508.13021)] [[Code](https://github.com/NEUIR/Uncode)]
 - [24ICCASP] PeriodGrad: Towards Pitch-Controllable Neural Vocoder Based on a Diffusion Probabilistic Model. [[Paper](https://arxiv.org/pdf/2402.14692)]
 - [24AAAI] Text Diffusion with Reinforced Conditioning. [[Paper](https://arxiv.org/pdf/2402.14843)]
 - [24ACL] TEncDM: Understanding the Properties of Diffusion Model in the Space of Language Model Encodings. [[Paper](https://arxiv.org/pdf/2402.19097)]
